@@ -1,16 +1,16 @@
-# halogrants
+# IoTeX Halo Grant
 👟 Apply for a IoTeX Halo Grant. Help build the IoTeX ecosystem!
 
-# Goals of Halo Devgrants
+## Goals of Halo Devgrants
 
-# Types of Grant
+## Types of Grant
 
-# How to apply
+## How to apply
 
-# Eligibility
+## Eligibility
 
-# Halo Committee
+## Halo Committee
 - Raullen Chai
 - Larry Pang
 
-# Help
+## Help
