@@ -2,6 +2,8 @@ To submit a proposal, please create a PR against this template in this repo. Ple
 
 # RFP Proposal: `Project Title`
 
+**RFP Category:** `dev`
+
 **Name of Project:**
 
 **Link to RFP:** Please link to the RFP that you are submitting a proposal for.
@@ -42,7 +44,7 @@ Specify your team's long-term plans to maintain this software and upgrade it ove
 
 ## Contact Info
 
-Provide us with a way to contact you (email is probably easiest) so we can communicate our selection decision to you directly. You can also email devgrants@filecoin.org with your GH username and link to your public proposal.
+Provide us with a way to contact you (email is probably easiest).
 
 ## Team Members
 
