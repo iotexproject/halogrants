@@ -9,4 +9,8 @@
 
 # Eligibility
 
+# Halo Committee
+- Raullen Chai
+- Larry Pang
+
 # Help
