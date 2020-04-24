@@ -2,9 +2,9 @@
 👟 Apply for a IoTeX Halo Grant. Help build the IoTeX ecosystem!
 
 ## Goals
-The IoTeX Halo Program, runs by the IoTeX Foundation, funds community projects benefiting the IoTeX community. At a high level, we welcome two categories of proposals:
-- RFP (Requests for Proposals) which define a scope of work and funding limit. In some instances we may fund multiple teams to work independently on solutions to the same RFP.
-- OGP (Open Grants Proposals) which is an open program that incentize proposing innovative and impactful ideas for our ecosystem, tech or non-tech.
+The IoTeX Halo Program, runs by the IoTeX Foundation, funds community projects benefiting the IoTeX community. At a high level, we welcome two categories of proposals, tech or non-tech:
+- **RFP (Requests for Proposals)** which define a scope of work and funding limit. In some instances we may fund multiple teams to work independently on solutions to the same RFP.
+- **OEP (Open-ended Proposals)** which is an open program that incentize proposing innovative and impactful ideas for our ecosystem.
 
 ## Types of Grants
 Recommended proposal types include, but are not limited to: 
