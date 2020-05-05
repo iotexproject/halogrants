@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/iotexproject/halogrants/blob/master/img/halo.png" width="480px">
 </p>
---
+
 &nbsp;
 
 # IoTeX Halo Grants Program
