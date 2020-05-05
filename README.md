@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/iotexproject/halogrants/blob/master/img/halo.png" width="480px">
+</p>
+
 # IoTeX Halo Grants Program
 👟 Apply for a IoTeX Halo Grant. Help build the IoTeX ecosystem!
 
