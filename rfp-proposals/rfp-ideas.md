@@ -8,6 +8,7 @@
 - [Hardware Wallet Support](#hardware-wallet-support)
 
 ## Low Priority
+- [ioPay as A Browser Extention](#iopay-as-a-browser-extention)
 - Multi-language SDKs (Python, Ruby, Swift, Kotlin)
 - Code labs: DIY creative Dapps
 
@@ -53,3 +54,11 @@ A decentralized exchange (DEX) is a cryptocurrency exchange which operates in a 
 A hardware wallet is a special type of cryptocurrency wallet which stores the user's private keys in a secure hardware device. They have major advantages over standard software wallets: private keys are often stored in a protected area of a microcontroller, and cannot be transferred out of the device in plaintext. While core-dev is working with Ledger closely to lauch IOTX wallet for nano S/X wallets, we desire to support native IOTX on other hardware wallets such as Trezor, KeepPay and many others. Help us develop firmwarre for mainstream hardware wallets!
 
 &nbsp;
+
+### ioPay as A Browser Extention ###
+ioPay (https://iopay.iotex.io/) comes with two flavours - desktop version (supporting Windows, MacOS and Linux) and mobile version (iOS and Android). Having ioPay as a browser extention will hugely invcentive Dapps to integrate with IoTeX blockchain and be beneficial for the ecosystem. This browser extention should coome with all features of ioPay, e.g., account management, send/review transaction, invoke smart contract, safe and easy to use.
+
+&nbsp;
+
+
+
