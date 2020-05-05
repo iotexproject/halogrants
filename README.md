@@ -17,7 +17,7 @@ Recommended proposal types include, but are not limited to:
 - Community activities.
 
 ## How to Apply
-1. Anyone (individuals or teams) is welcomed to submit their proposals via pull requests to this repo (follow the given templates [here](https://github.com/iotexproject/halogrants/tree/master/rfp-proposals) and [here](https://github.com/iotexproject/halogrants/tree/master/open-proposals)); once committed, please submit the content to community.iotex.io for open discussions.
+1. Anyone (individuals or teams) is welcomed to submit their proposals via pull requests to this repo (follow the given templates [here](https://github.com/iotexproject/halogrants/tree/master/rfp-proposals) and [here](https://github.com/iotexproject/halogrants/tree/master/oep-proposals)); once committed, please submit the content to community.iotex.io for open discussions.
 2. The commitee will review the PR within two weeks, provide feedback/suggestions, optionally schedule a call with the team, and approve/reject finally. We will expand our commitee as time goes by, by inviting relevant techonologists and influceners.
 3. If a grant is awarded, grant recipients will receive their IOTX grants periodically based on predetermined milestones for the specific grant. 
 4. Grant recipients will be required to produce Milestone Reports (follow the given template here) in order to continue to receive grant funding. If the Milestone Report is showing that the initiative is not meeting expectations, the Foundation has the option to halt continued funding. The submission cycle of the Milestone Report will vary according to each project’s duration.
