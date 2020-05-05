@@ -1,7 +1,7 @@
 # RFP Ideas
 
 ## High Priority
-- [Dashboard to track IoTeX Halo projects](#dashboard-to-track-iotex-halo-projects)
+- [Dashboard to Track Halo projects](#dashboard-to-track-halo-projects)
 - [Online IDE](#online-ide)
 - [Stable Coins](#stalbe-coins)
 - [Decentralized Exchange](#decentralized-exchange)
@@ -20,7 +20,7 @@ We also accept **Open-ended Proposals** where you can suggest your own project i
 
 ------
 
-### Dashboard to track IoTeX Halo Projects
+### Dashboard to track Halo Projects
 
 While we track progress of every Halo projects on Github to achieve the highest transparency, it would be great to have a nice dashboard to track projects visually and user-friendly. The required features are
 - automatic tracking and visualization of applications
@@ -45,8 +45,11 @@ Stablecoins are cryptocurrencies designed to minimize the volatility of the pric
 &nbsp;
 
 ### Decentralized Exchange ###
+A decentralized exchange (DEX) is a cryptocurrency exchange which operates in a decentralized way, i.e., without a central authority. Decentralized exchanges allow peer-to-peer trading of cryptocurrencies. Since IoTeX supports EVM and solidity (and super fast!), it would be possible to launch a DEX on top of IoTeX blockchain. DEX could come with orderbooks (e.g., DDEX) or not (e.g., Uniswap) but should be secure, fast and convinent for people to use.
+
 &nbsp;
 
-### Decentralized Exchange ###
- for IoTeX native token (Trezor, KeepPay)
+### Hardware Wallet Support ###
+A hardware wallet is a special type of cryptocurrency wallet which stores the user's private keys in a secure hardware device. They have major advantages over standard software wallets: private keys are often stored in a protected area of a microcontroller, and cannot be transferred out of the device in plaintext. While core-dev is working with Ledger closely to lauch IOTX wallet for nano S/X wallets, we desire to support native IOTX on other hardware wallets such as Trezor, KeepPay and many others. Help us develop firmwarre for mainstream hardware wallets!
+
 &nbsp;
