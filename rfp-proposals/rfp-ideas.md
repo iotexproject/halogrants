@@ -3,9 +3,9 @@
 ## High Priority
 - [Dashboard to track IoTeX Halo projects](#dashboard-to-track-iotex-halo-projects)
 - [Online IDE](#online-ide)
-- Stable coins
-- Decentralized exchange on IoTeX blockchain
-- Hardware wallet support for IoTeX native token (Trezor, KeepPay)
+- [Stable Coins](#stalbe-coins)
+- [Decentralized Exchange](#decentralized-exchange)
+- [Hardware Wallet Support](#hardware-wallet-support)
 
 ## Low Priority
 - Multi-language SDKs (Python, Ruby, Swift, Kotlin)
@@ -35,4 +35,18 @@ An online IDE for development of smart contract and to interate with IoTeX block
 - support read from and write to a contract in a user-friendly way
 - support extended instructions of EVM that IoTeX implemented (bonus!)
 
+&nbsp;
+
+### Stable Coins ###
+Stablecoins are cryptocurrencies designed to minimize the volatility of the price of the stablecoin, relative to some "stable" asset or basket of assets. There are couple of ways to develop a stable coin on IoTeX and we are open to all:
+- crosschain-transferring of stable coins from Ethereum (and other blockchains) to IoTeX blockchain
+- natively issue a stable coin on IoTeX blockchain which can be pegged to a cryptocurrency, fiat money, or to exchange-traded commodities (such as precious metals or industrial metals). This one can be asset-backed or seigniorage-style.
+
+&nbsp;
+
+### Decentralized Exchange ###
+&nbsp;
+
+### Decentralized Exchange ###
+ for IoTeX native token (Trezor, KeepPay)
 &nbsp;
