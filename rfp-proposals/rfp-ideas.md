@@ -6,12 +6,12 @@
 - [Stable Coins](#stalbe-coins)
 - [Decentralized Exchange](#decentralized-exchange)
 - [Hardware Wallet Support](#hardware-wallet-support)
+- [ioPay as A Browser Extention](#iopay-as-a-browser-extention)
+- [IoTeX All-in-One For Dummies](#iotex-all-in-one-for-dummies)
 
 ## Low Priority
-- [ioPay as A Browser Extention](#iopay-as-a-browser-extention)
 - Multi-language SDKs (Python, Ruby, Swift, Kotlin)
 - Code labs: DIY creative Dapps
-
 
 We also accept **Open-ended Proposals** where you can suggest your own project idea.
 
@@ -60,5 +60,9 @@ ioPay (https://iopay.iotex.io/) comes with two flavours - desktop version (suppo
 
 &nbsp;
 
+### IoTeX All-in-One For Dummies ###
+[Dummies Book Series](https://www.dummies.com) is a popular collection of books that always taking on concepts and making them easy to understand. Dummies helps everyone be more knowledgeable and confident in applying what they know. We aim to have an educational website called "IoTeX All-in-One For Dummies" that covers all IoTeX vision, techonology and products for all users, developers and investors.
 
+
+&nbsp;
 
