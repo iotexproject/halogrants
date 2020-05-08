@@ -4,39 +4,44 @@
 
 &nbsp;
 
-# IoTeX Halo Grants Program
-👟 Apply for a IoTeX Halo Grant. Help build the IoTeX ecosystem!
+# IoTeX Halo - Dev Grants Program
+👟 Introducing Halo, the official IoTeX Dev Grants Program. Join us in building the Internet of Trusted Things!
 
 ## Goals
-The IoTeX Halo Program, runs by the IoTeX Foundation, funds community projects benefiting the IoTeX community. At a high level, we welcome two categories of proposals, tech or non-tech:
-- **RFP (Requests for Proposals)** which define a scope of work and funding limit. In some instances we may fund multiple teams to work independently on solutions to the same RFP.
-- **OEP (Open-ended Proposals)** which is an open program that incentize proposing innovative and impactful ideas for our ecosystem which are not covered by REPs.
+The IoTeX Halo Program, run by the IoTeX Foundation, funds community projects that benefit the IoTeX ecosystem. Specifically, Halo grants are targeted at developers interested in building IoT and privacy-related projects, as well as ecosystem builders that want to expand the capabilities/reach of the IoTeX Network. At a high level, we welcome two categories of proposals, both tech and non-tech:
+- **RFP (Requests for Proposals):** Choose from our "wishlist" of projects with a defined scope of work and funding limit. In some instances we may fund multiple teams to work independently on solutions to the same RFP.
+- **OEP (Open-ended Proposals):** Interested in building a new project on IoTeX? Pitch us your idea! OEPs empower your innovative and impactful ideas with funding and hands-on technical support from the IoTeX Foundation.
 
 ## Types of Grants
-Recommended proposal types include, but are not limited to: 
-- Infrastructure, e.g., wallet, DEX, datastore
-- Developer Experience (DX), e.g., tools and sofeware to make dev's life easier
-- Products, e.g., IoT gagets, mobile apps, game, 
-- Education
-- Marketing
-- Public relations
-- Community activities.
+Recommended proposal types include, but are not limited to:
+
+**Technical**
+- Trusted Devices/Data: new tools/capabilities for "Powered by IoTeX" products (e.g., Ucam, Pebble Tracker)
+- New Devices/Dapps: onboard new smart devices, applications, and services to the IoTeX ecosystem
+- Developer Experience: tools and software to make developing on IoTeX easier
+- Infrastructure: wallets, explorer, decentralized exchange (DEX), datastore, etc.
+- Decentralized Products: mobile applications, games, etc.
+
+**Non-technical**
+- Educational Materials: formal programs, tools, videos, or other multimedia to spread the word about IoTeX
+- International Marketing: marketing campaigns, meetups, and initiatives in your local region/language
+- Community Experience: long-term programs to help drive community discussion and engagement
 
 ## How to Apply
-1. Anyone (individuals or teams) is welcomed to submit their proposals via pull requests to this repo (follow the given templates [here](https://github.com/iotexproject/halogrants/tree/master/rfp-proposals) and [here](https://github.com/iotexproject/halogrants/tree/master/oep-proposals)); once committed, please submit the content to community.iotex.io for open discussions.
-2. The commitee will review the PR within two weeks, provide feedback/suggestions, optionally schedule a call with the team, and approve/reject finally. We will expand our commitee as time goes by, by inviting relevant techonologists and influceners.
-3. If a grant is awarded, grant recipients will receive their IOTX grants periodically based on predetermined milestones for the specific grant. 
-4. Grant recipients will be required to produce Milestone Reports (follow the given template here) in order to continue to receive grant funding. If the Milestone Report is showing that the initiative is not meeting expectations, the Foundation has the option to halt continued funding. The submission cycle of the Milestone Report will vary according to each project’s duration.
+1. Anyone (individuals or teams) is welcome to submit their proposals via pull requests to this repo (follow the given templates [here](https://github.com/iotexproject/halogrants/tree/master/rfp-proposals) and [here](https://github.com/iotexproject/halogrants/tree/master/oep-proposals)); once committed, please submit your proposal to the [IoTeX Forum - Technology & Developers](https://community.iotex.io/c/research-development/7) section for open discussion.
+2. The IoTeX Foundation will review your proposal within two weeks. We will provide feedback/suggestions and optionally schedule a call to discuss your idea, after which we will approve/reject the proposal. We will expand the proposal selection commitee as time goes by, including community leaders, project advisors, and external techonologists.
+3. If a grant is awarded, grant recipients will receive their IOTX grants periodically based on predetermined milestones for the specific grant. Note that the issuance of funding differs for RFPs and OEPs.
+4. Grant recipients will be required to produce Milestone Reports in order to continue to receive grant funding. If the Milestone Report shows the initiative is not meeting expectations, the Foundation will work with you to get back on track; however, if problems persist we may halt continued funding. The submission cycle of the Milestone Report will vary according to each project’s duration.
 
 ## Eligibility
-1. Proposal should be clear about how they would benefit IoTeX ecosystem and we are primarily interested in projects that can be completed in 3 months or less.
-2. Teams can apply for grants more than once, but they need to complete the previous project (as described in their application) before receiving additional funds. 
-3. Teams shouldn’t seek to cover 100% of their early-stage funding via W3F Grants alone.
+1. Proposal should be clear about how they will benefit the IoTeX ecosystem. We are primarily interested in projects that can be completed in 3 months or less -- longer projects may be split into multiple grants for easier tracking/management.
+2. Teams and individuals can apply for grants more than once, but they need to complete the previous project (as described in their application) before receiving additional funds.
+3. Teams should not seek to cover 100% of their early-stage funding via Halo Grants alone. 
 4. All projects must be open-sourced (under MIT and APACHE2 licenses) and all teams must be self-managed.
 
 ## Resources & Community
-- Our Github Repos: https://github.com/iotexproject
+- Github Repos: https://github.com/iotexproject
 - Documentation: https://docs.iotex.io/
 - Codelabs: http://codelabs.iotex.io/
-- Dev discussion channel: https://community.iotex.io/c/research-development/protocol
-
+- Dev Forum: https://community.iotex.io/c/research-development/7
+- Dev Chat: https://t.me/IoTeXDev
