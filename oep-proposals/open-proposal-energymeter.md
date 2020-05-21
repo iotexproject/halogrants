@@ -2,7 +2,7 @@ To submit a proposal, please create a PR against this template in this repo. Ple
 
 # Open Grant Proposal: `Energy Meter`
 
-**Name of Project:** Using IoTeX Cryptocurrency to 
+**Name of Project:** Using IoTeX Cryptocurrency to Securely Charge Energy Meters
 
 **Proposal Category:** Trusted Devices / Data
 
@@ -28,9 +28,13 @@ We would be proposing a new product branded with your cryptocurrency. This would
 
 The hardware is largly developed and software. It would require branding and perhaps a package design with yourselves. The cryptocurrency inclusion would need to be developed which could be done by myself and take a few months. 
 
+The hardware is advertised here -> http://www.radiotelemetry.co.uk/subsections/x9400_iot-quad-pulse-counter-2.asp
+
+There is currently a software project to link this with a payment system. We would be interested in a secure blockchain supported system of charging these payments. Presumably you have a developer tool kit and other hardware products have been launched with a mobile app and this would be developed with the same goals in mind as UCam. We would be happy to work with you on developing the details of how that might work in the IoTeX ecosystem.  
+
 ## Total Budget Requested
 
-We would not in theory require a budget from you however perhaps you could agree to pre-order an amount of these products. We are currently listed to provide a company blue castle with over 2000 energy monitors. We would therefore ask you to sign an agreement to purchase a certain amount once the development was completed to your satisfacation. They currently retail at £79.00 each. 
+We would not in theory require a budget from you however perhaps you could agree to pre-order an amount of these products. We are currently listed to provide a company blue castle with over 2000 energy monitors. We would therefore ask you to sign an agreement to purchase a certain amount once the development was completed to your satisfacation. They currently retail at £98.00 each. 
 
 ## Maintenance and Upgrade Plans
 
