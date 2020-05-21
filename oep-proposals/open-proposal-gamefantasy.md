@@ -1,14 +1,16 @@
-### Project Title:
----
-#### Name of Project:cats around the world
-#### Proposal Category: cat factory
+#### Open Grant Proposal: Cats Around The World
+#### Proposal Category: Dapp
 #### Proposer:wqwqwq219
-#### Do you agree to open source all work you do on behalf of this RFP?: No
+#### Do you agree to open source all work you do on behalf of this RFP?: No, open contract part of the game
 
 ### Project Description
 ---
 As we all know, because blockchain and smart contract can provide Ani-cheat, almost blockchain games are gambling games. However, there is a problem that so many conditions were defined in contract having a bad effect on the game process. Because every game currency trading will be resent if status was modified. A good game experience should allow players to achieve a consistent and continuity progress. In order to allowing players to achieve better game experience in the future, blockchain game should not be limited to gambling games.
 Games can be design in centralized. But decentralization is mainly used in currency and point card. To recharge favorite game by token can largely shows the value of token. Although online games just one of entertainments for people, but what we need to do is making games have more possible.
+
+This is a Simulation Game that player can raise all kinds of strange cats from all over the world, besides, they can ungrades cats if the two cats are same in the game. There are different levels in this game,evry levels are assigned to a unique cat.
+In the game, iotx and vita can be used as the charging entry. Accoding to the money ,player can choose special cards that they can upgrade their  cats ,so that they can experience travelling all the game world faster than others.
+Recharging funcitions is carried out in the form of contract.The contract recharging function is called to send TxN to the server ,after verified ,chargeable properties will be put to the player's account.
 
 ### Value
 ---
