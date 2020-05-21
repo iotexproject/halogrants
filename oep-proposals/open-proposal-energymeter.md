@@ -30,7 +30,7 @@ The hardware is largly developed and software. It would require branding and per
 
 The hardware is advertised here -> http://www.radiotelemetry.co.uk/subsections/x9400_iot-quad-pulse-counter-2.asp
 
-There is currently a software project to link this with a payment system. We would be interested in a secure blockchain supported system of charging these payments. Presumably you have a developer tool kit and other hardware products have been launched with a mobile app and this would be developed with the same goals in mind as UCam. We would be happy to work with you on developing the details of how that might work in the IoTeX ecosystem.  
+There is currently a software project to link this with a payment system. We would be interested in a secure blockchain supported system of charging these payments. Presumably you have a developer tool kit and other hardware products have been launched with a mobile app and this would be developed with the same goals in mind as UCam. We would like to connect the hardware to your mainnet. This is then display the data from energy monitored from thousands of these devices. We would use the antenna SDK to transfer amounts based on energy consumption. This could then be deducted from the clients wallet. 
 
 ## Total Budget Requested
 
