@@ -66,13 +66,11 @@ Metanyx at its discretion and based on market demand will support further update
 - Stuart
 - Sean
 
-## Team Member LinkedIn Profiles
-
-- https://www.linkedin.com/in/chris-dipple-96551ab2
-
 ## Team Website
 
-https://metanyx.com
+- https://metanyx.com
+- https://medium.com/metanyx
+- https://www.reddit.com/r/Metanyx/
 
 ## Relevant Experience
 
@@ -85,10 +83,11 @@ Metanyx team have developed plugins for IOST and ICON, these consist of the foll
 
 ## Team code repositories
 
-https://github.com/metanyx-official/iconpay-woocommerce
-https://github.com/metanyx-official/iostpay-woocommerce
-https://github.com/metanyx-official/iostpay-oscommerce
+- https://github.com/metanyx-official/iconpay-woocommerce
+- https://github.com/metanyx-official/iostpay-woocommerce
+- https://github.com/metanyx-official/iostpay-oscommerce
+- https://github.com/metanyx-official/iostpay-magento
 
 # Additional Information
 
-Metanyx are a long term support of IoTeX having been one of the first teams involved in the project dating back to June 2018.
+Metanyx are a long term support of IoTeX having been one of the first teams involved in the project dating back to June 2018. We will continue working closely with the IoTeX Foundation on introducing other partners to the ecosystem as well as other strategic development in the future.
