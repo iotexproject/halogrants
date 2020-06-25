@@ -8,6 +8,8 @@
 - [Hardware Wallet Support](#hardware-wallet-support)
 - [ioPay as A Browser Extention](#iopay-as-a-browser-extention)
 - [IoTeX All-in-One For Dummies](#iotex-all-in-one-for-dummies)
+- [Privacy-preserving Healthcare Applications](#privacy-preserving-e-health-applications)
+
 
 ## Low Priority
 - Multi-language SDKs (Python, Ruby, Swift, Kotlin)
@@ -63,6 +65,10 @@ ioPay (https://iopay.iotex.io/) comes with two flavours - desktop version (suppo
 ### IoTeX All-in-One For Dummies ###
 [Dummies Book Series](https://www.dummies.com) is a popular collection of books that always taking on concepts and making them easy to understand. Dummies helps everyone be more knowledgeable and confident in applying what they know. We aim to have an educational website called "IoTeX All-in-One For Dummies" that covers all IoTeX vision, techonology and products for all users, developers and investors.
 
+&nbsp;
+
+### Privacy-preserving e-Health Applications ###
+Despite the potential gains, there are several obstacles that limit the wider development of e-health applications. Among these are the perceived threats to the security and privacy of patients' health data, and a widely held belief that these cannot be adequately addressed. We would recommend developers to implement privacy-preserving e-health applications based on customizable hardware such as (e-Health Sensor Platform V2.0 for Arduino and Raspberry Pi)[https://www.cooking-hacks.com/documentation/tutorials/ehealth-biometric-sensor-platform-arduino-raspberry-pi-medical.html] and IoTeX platform.
 
 &nbsp;
 
