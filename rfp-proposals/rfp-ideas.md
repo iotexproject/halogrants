@@ -68,7 +68,7 @@ ioPay (https://iopay.iotex.io/) comes with two flavours - desktop version (suppo
 &nbsp;
 
 ### Privacy-preserving e-Health Applications ###
-Despite the potential gains, there are several obstacles that limit the wider development of e-health applications. Among these are the perceived threats to the security and privacy of patients' health data, and a widely held belief that these cannot be adequately addressed. We would recommend developers to implement privacy-preserving e-health applications based on customizable hardware such as (e-Health Sensor Platform V2.0 for Arduino and Raspberry Pi)[https://www.cooking-hacks.com/documentation/tutorials/ehealth-biometric-sensor-platform-arduino-raspberry-pi-medical.html] and IoTeX platform.
+Despite the potential gains, there are several obstacles that limit the wider development of e-health applications. Among these are the perceived threats to the security and privacy of patients' health data, and a widely held belief that these cannot be adequately addressed. We would recommend developers to implement privacy-preserving e-health applications based on customizable hardware such as [e-Health Sensor Platform V2.0 for Arduino and Raspberry Pi](https://www.cooking-hacks.com/documentation/tutorials/ehealth-biometric-sensor-platform-arduino-raspberry-pi-medical.html) and IoTeX platform.
 
 &nbsp;
 
