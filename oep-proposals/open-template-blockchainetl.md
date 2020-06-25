@@ -62,6 +62,7 @@ The team will be adapting and leveraging systems developed in-house for this pro
 ## Team Member LinkedIn Profiles
 
 [Evgeny](https://www.linkedin.com/in/evgemedvedev/)
+
 [TN](https://www.linkedin.com/in/tnlee/)
 
 ## Team Website
