@@ -71,7 +71,7 @@ The team will be adapting and leveraging systems developed in-house for this pro
 
 ## Relevant Experience
 
-Evgeny is an experienced data scientist with over 10  years of software development experience. He is the creator of Blockchain ETL (over 900 stars) and his accreditation includes Google Cloud GDE, Google Professional Cloud Architect, and AWS Certified Solutions Architect. 
+Evgeny is an experienced data scientist with over 10  years of software development experience. He is the creator of Blockchain ETL (over 900 stars) and his accreditations include Google Cloud GDE, Google Professional Cloud Architect, and AWS Certified Solutions Architect. 
 
 TN was a founding team member of Kyber Network and oversaw its business development efforts, which included partnerships with notable blockchain projects, such as MyEtherWallet, Coinbase, and CoinGecko. 
 
