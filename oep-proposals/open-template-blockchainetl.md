@@ -6,13 +6,13 @@ To submit a proposal, please create a PR against this template in this repo. Ple
 
 **Proposal Category:** Infrastructure
 
-**Proposer:** `leetsunngai`
+**Proposer:** `tnlee`
 
 **Do you agree to open source all work you do on behalf of this RFP?:** Yes
 
 # Project Description
 
-Blockchain technology has captured the imagination of technologists, financiers, and economists. Perhaps even more intriguing are the long-term, diverse applications of the technology. By increasing the transparency of blockchain systems, the contained data becomes more accessible and useful. With this in mind, our immediate project objective is to make the IoTeX blockchain data available for exploration with BigQuery. All historical data can be found in the IoTeX blockchain data set, which updates daily (and eventually in real-time). We hope that by making the data more transparent, users of the data can gain a deeper understanding of how IoTeX’s blockchain systems function and how they might best be used for the benefit of the ecosystem. 
+Blockchain technology has captured the imagination of technologists, financiers, and economists. Perhaps even more intriguing are the long-term, diverse applications of the technology. By increasing the transparency of blockchain systems, the contained data becomes more accessible and useful. With this in mind, our immediate project objective is to make the IoTeX blockchain data available for exploration with BigQuery. All historical data can be found in the IoTeX blockchain data set, which updates daily (and eventually in real-time). We hope that by making the data more transparent, users of the data can gain a deeper understanding of how IoTeXâ€™s blockchain systems function and how they might best be used for the benefit of the ecosystem. 
 
 The IoTeX network properties provide a basis for fundamental valuation of the network. For example, the total number of IoTeX transactions in a day indicates economic activity on-network. The other properties, such as the number of funded accounts and frequency of transactions may also be of fundamental economic importance. 
 
