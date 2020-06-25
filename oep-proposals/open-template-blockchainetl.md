@@ -39,7 +39,7 @@ GCP Marketplace listing - IoTeX public dataset to be listed on GCP Marketplace
 Please break up your development work into a clear set of milestones. This section needs to be detailed.
 
 | Milestones | Details | Manpower | Date | Funding (IOTX) |
-| --------------- | --------------- | --------------- | --------------- | :---------------: |
+| --------------- | --------------- | :---------------: | :---------------: | :---------------: |
 | Daily loads | <ul><li>IoTeX schema draft</li><li>Blockchain node setup</li><li>Cloud Composer setup and Airflow jobs</li><li>BigQuery tables</li></ul> | 2 developers | 7/1 - 7/31 | 20,960,000 |
 | GCP Marketplace listing | <ul><li>Create production project</li><li>Coordinate with Google representatives to list public datasets</li></ul> | 1 business liaison | 7/17 - 7/31 | 0 |
 | Real-time ingestions | <ul><li>Data ingestion from blockchain nodes to Pub/Sub</li><li>Dataflow jobs for moving data from Pub/Sub to BigQuery</li></ul> | 2 developers | 8/1 - 8/15 | 11,000,000
@@ -61,12 +61,12 @@ The team will be adapting and leveraging systems developed in-house for this pro
 
 ## Team Member LinkedIn Profiles
 
-[https://www.linkedin.com/in/evgemedvedev/](Evgeny)
-[https://www.linkedin.com/in/tnlee/](TN)
+[Evgeny](https://www.linkedin.com/in/evgemedvedev/)
+[TN](https://www.linkedin.com/in/tnlee/)
 
 ## Team Website
 
-[https://www.helixtechnologies.xyz/](Helix Technologies)
+[Helix Technologies](https://www.helixtechnologies.xyz/)
 
 ## Relevant Experience
 
@@ -76,7 +76,7 @@ TN was a founding team member of Kyber Network and oversaw its business developm
 
 ## Team code repositories
 
-[https://github.com/blockchain-etl](Blockchain ETL)
+[Blockchain ETL](https://github.com/blockchain-etl)
 
 # Additional Information
 
