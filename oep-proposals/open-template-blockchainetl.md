@@ -2,80 +2,81 @@ To submit a proposal, please create a PR against this template in this repo. Ple
 
 # Open Grant Proposal: `Blockchain ETL`
 
-**Name of Project:**
+**Name of Project:** IoTeX Blockchain ETL on GCP
 
-**Proposal Category:** Choose a category
+**Proposal Category:** Infrastructure
 
-**Proposer:** `replace with your GitHub username`
+**Proposer:** `leetsunngai`
 
-**Do you agree to open source all work you do on behalf of this RFP?:** Please respond with either "Yes" or "No"
+**Do you agree to open source all work you do on behalf of this RFP?:** Yes
 
 # Project Description
 
-Please describe exactly what you are planning to build. Make sure to include the following:
-- Start with the need or problem you are trying to solve with this project.
-- Describe why your solution is going to adequately solve this problem.
+Blockchain technology has captured the imagination of technologists, financiers, and economists. Perhaps even more intriguing are the long-term, diverse applications of the technology. By increasing the transparency of blockchain systems, the contained data becomes more accessible and useful. With this in mind, our immediate project objective is to make the IoTeX blockchain data available for exploration with BigQuery. All historical data can be found in the IoTeX blockchain data set, which updates daily (and eventually in real-time). We hope that by making the data more transparent, users of the data can gain a deeper understanding of how IoTeX’s blockchain systems function and how they might best be used for the benefit of the ecosystem. 
 
-This section should be 2-3 paragraphs long.
+The IoTeX network properties provide a basis for fundamental valuation of the network. For example, the total number of IoTeX transactions in a day indicates economic activity on-network. The other properties, such as the number of funded accounts and frequency of transactions may also be of fundamental economic importance. 
 
 ## Value
 
-Please describe in more detail why this proposal is valuable for the IoTeX ecosystem. Answer the following questions:
-- What are the benefits to getting this right?
-- What are the risks if you don't get it right?
-- What are the risks that will make executing on this project difficult?
+While the IoTeX blockchain provides OLTP capabilities (atomic transactions, data durability), it has very limited OLAP (analytics) capability for regularly required short time-scale reporting on specific or aggregated money flows stored in the ledger. The inability to easily build reports from the blockchain can reduce transparency and increase the difficulty of price discovery and other fundamental metrics of valuation such as the NVT Ratio.
 
-This section should be 1-3 paragraphs long.
+In contrast, BigQuery has strong OLAP capabilities. We built a software system on Google Cloud that:
+
+1. Performs a real-time extraction of data from the IoTeX blockchain ledger
+2. Stores the data to BigQuery and de-normalizes it to make exploration easier
+3. Derives insights from the extracted data with Data Studio
 
 ## Deliverables
 
 Please describe in details what your final deliverable for this project will be. Include a specification of the project and what functionality the software will deliver when it is finished.
 
+Daily loads - export and load blockchain data into BigQuery on a daily basis
+Real-time ingestions - export and load blockchain data into BigQuery in real-time
+GCP Marketplace listing - IoTeX public dataset to be listed on GCP Marketplace
+
 ## Development Roadmap
 
 Please break up your development work into a clear set of milestones. This section needs to be detailed.
 
-For each milestone, please describe:
-- The software functionality that we can expect after the completion of each milestone. This should be detailed enough that it can be used to ensure that the software meets the specification you outlined in the Deliverables.
-- How many people will be working on each milestone and their roles
-- The amount of funding required for each milestone
-- How much time this milestone will take to achieve (using real dates)
+| Milestones | Details | Manpower | Date | Funding (IOTX) |
+| --------------- | --------------- | --------------- |
+| Daily loads | - IoTex schema draft - Blockchain node setup - Cloud Composer setup and Airflow jobs - BigQuery tables | 2 developers | 7/1 - 7/31 | 20,960,000 |
+| GCP Marketplace listing | - Create production project - Coordinate with Google representatives to list public datasets  | 1 business liaison | 7/17 - 7/31 | 0 |
+| Real-time ingestions | - Data ingestion from blockchain nodes to Pub/Sub - Dataflow jobs for moving data from Pub/Sub to BigQuery | 2 developers | 8/1 - 8/15 | 11,000,000
 
 ## Total Budget Requested
 
-Sum up the total requested budget across all milestones, and include that figure here. Also, please include a budget breakdown to specify how you are planning to spend these funds.
+Total budget requested: 31,960,000 IOTX (100% of the fund will be spent on human resource).
 
 ## Maintenance and Upgrade Plans
 
-Specify your team's long-term plans to maintain this software and upgrade it over time.
+The team will be adapting and leveraging systems developed in-house for this project, the mentioned system has been thoroughly tested and was running in production for over a year. Besides that, unit and integration tests will be implemented for the system components. The system is designed with minimal maintenance requirements in mind.	
 
 # Team
 
 ## Team Members
 
-- Team Member 1
-- Team Member 2
-- Team Member 3
-- ...
+1. Evgeny Medvedev
+2. TN Lee
 
 ## Team Member LinkedIn Profiles
 
-- Team Member 1 LinkedIn profile
-- Team Member 2 LinkedIn profile
-- Team Member 3 LinkedIn profile
-- ...
+[https://www.linkedin.com/in/evgemedvedev/](Evgeny)
+[https://www.linkedin.com/in/tnlee/](TN)
 
 ## Team Website
 
-Please link to your team's website here (make sure it's `https`)
+[https://www.helixtechnologies.xyz/](Helix Technologies)
 
 ## Relevant Experience
 
-Please describe your team's relevant experience, and why you think you are the right team to build this project. You can cite your team's prior experience in similar domains, doing similar dev work, individual team members' backgrounds, etc.
+Evgeny is an experienced data scientist with over 10  years of software development experience. He is the creator of Blockchain ETL (over 900 stars) and his accreditation includes Google Cloud GDE, Google Professional Cloud Architect, and AWS Certified Solutions Architect. 
+
+TN was a founding team member of Kyber Network and oversaw its business development efforts, which included partnerships with notable blockchain projects, such as MyEtherWallet, Coinbase, and CoinGecko. 
 
 ## Team code repositories
 
-Please provide links to your team's prior code repos for similar or related projects.
+[https://github.com/blockchain-etl](Blockchain ETL)
 
 # Additional Information
 
