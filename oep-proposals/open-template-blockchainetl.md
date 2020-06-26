@@ -46,7 +46,7 @@ Please break up your development work into a clear set of milestones. This secti
 
 ## Total Budget Requested
 
-Total budget requested: 31,960,000 IOTX (100% of the fund will be spent on human resource).
+Total budget requested: 7,000,000 IOTX (100% of the fund will be spent on human resource).
 
 ## Maintenance and Upgrade Plans
 
