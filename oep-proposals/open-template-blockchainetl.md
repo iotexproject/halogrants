@@ -40,9 +40,9 @@ Please break up your development work into a clear set of milestones. This secti
 
 | Milestones | Details | Manpower | Date | Funding (IOTX) |
 | --------------- | --------------- | :---------------: | :---------------: | :---------------: |
-| Daily loads | <ul><li>IoTeX schema draft</li><li>Blockchain node setup</li><li>Cloud Composer setup and Airflow jobs</li><li>BigQuery tables</li></ul> | 2 developers | 7/1 - 7/31 | 5,000,000 |
+| Daily loads | <ul><li>IoTeX schema draft</li><li>Blockchain node setup</li><li>Cloud Composer setup and Airflow jobs</li><li>BigQuery tables</li></ul> | 2 developers | 7/1 - 7/31 | 1,000,000 |
 | GCP Marketplace listing | <ul><li>Create production project</li><li>Coordinate with Google representatives to list public datasets</li></ul> | 1 business liaison | 7/17 - 7/31 | 0 |
-| Real-time ingestions | <ul><li>Data ingestion from blockchain nodes to Pub/Sub</li><li>Dataflow jobs for moving data from Pub/Sub to BigQuery</li></ul> | 2 developers | 8/1 - 8/15 | 2,000,000
+| Real-time ingestions | <ul><li>Data ingestion from blockchain nodes to Pub/Sub</li><li>Dataflow jobs for moving data from Pub/Sub to BigQuery</li></ul> | 2 developers | 8/1 - 8/15 | 1,000,000
 
 ## Total Budget Requested
 
