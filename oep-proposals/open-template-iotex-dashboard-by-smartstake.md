@@ -22,6 +22,7 @@ Smart Stake dashboards make it very easy to understand delegate performance and 
 
 - Module - Delegate Performance - Delegate performance module allows assessment of performance of each delegate in near real-time (1 epoch, 8 epochs), short term (1 day, 7 days), long term (21 days) windows. The tooling will allow individual coin holders to assess the performance of the delegates they stake with or want to stake with. These tools are also useful for monitoring of the delegate health by delegates, by IoTeX, and by community
   - Delegate list - listing of all delegates status, uptime, rewards, expected returns, expected returns index (a relative performance index). Allows marking delegates as favorite for easy access.
+    -	Expected Return Index –  is a ratio of the Expected Returns/ER of a delegate as compared to the Average ER of all delegates in a given time window. A ratio of 1 means that a delegate is performing at an average level. A value <1 means that it performing worse than average and a value >1 means that it is performing better than average. This allows relative assessment of all delegates based on the returns.
   - Delegate details screens - shows basic delegate details and includes epoch and daily performance data presented using visual charts and tables
   -	Provide summary stats for blocks, rewards earned by delegates per epoch/day. Provide historical views for all performance stats and relevant delegate details. Stake history for delegate – chart showing how the staking history has changed for delegate over time since launch
   -	Delegate events – tabular view of all events related to a given delegate e.g. new votes, un-stake, fee changes, rewards claim and the amounts involved. Unlike a typical transaction explorer, the key difference here will be use of delegate names to improve readability
@@ -56,31 +57,40 @@ Smart Stake dashboards make it very easy to understand delegate performance and 
 ## Development Roadmap
 
 Most of the features outlined in this document depend on a mature set of APIs exposed by the blockchain itself. The milestones outlined here can be met only if the foundational data can be obtained using IoTeX defined APIs in IoTeX Core or using REST/RPC/etc. kind of methods.
-Smart Stake will commit to delivering 80%+ of the features within 8 weeks of entering the contract. It is assumed that up to 20% of the features mentioned above may be not relevant enough or not doable if appropriate/reliable API is not available. For every such feature, Smart Stake will work with IoTeX representative to build a comparable effort feature in the given timeline.
+Smart Stake will commit to delivering 80%+ of the original features within 12 weeks of entering the contract. It is assumed that up to 20% of the features mentioned above may be not relevant enough or not doable if appropriate/reliable API is not available. For every such feature, Smart Stake will work with IoTeX representative to build a comparable effort feature in the given timeline.
 
 Milestones:
-- Module - Delegate Performance
-  - Scope - 80% of original features mentioned in Deliverables section for this module. Up to 20% replacement features depending upon specific needs of IoTeX blockchain.
-  - Implementation date - 4 weeks after contract start
-  - Funding - TBD
-- Module – Coin Holder Tools -
-  - Scope - 80% of original features mentioned in Deliverables section for this module. Up to 20% replacement features depending upon specific needs of IoTeX blockchain.
-  - Implementation date - 7 weeks after contract start
-  - Funding - TBD
-- Module – Network Stats -
-  - Scope - 80% of original features mentioned in Deliverables section for this module. Up to 20% replacement features depending upon specific needs of IoTeX blockchain.
-  - Implementation date - 10 weeks after contract start
-  - Funding - TBD
+- Phase 1 - Basic dashboard and telegram bot
+  - Delegate list - listing of all delegates status, uptime, and rewards. Allows marking delegates as favorite for easy access. 
+    - Show Expected returns and expected returns index (a relative performance index). Expected Return Index allows relative performance assessment of all delegates based on the returns received.
+    - Timeframes supported - 1 day and 1 week i.e. assess performance for ongoign day and last 7 days
+  - Delegate details screens - shows basic delegate details and includes epoch and daily performance data presented using visual charts and tables
+  - Voter list screen for a delegate - including basic summary of amount staked and rewards
+  - Basic Telegram Bot - Build a telegram bot with basic summary of all validators, favorite validators
+  - Background foundational data - capture delegate details, delegate data changes throughout the day. Scrape the data to figure out how each validator is performing  
+  - Implementation date - within 4 weeks after contract start
+  - Funding - 1.2 million IOTX
+
+
+- Phase 2 - Advanced dashboard and telegram bot
+  - Module - Delegate Performance
+    - Scope - 80% of remaining features mentioned in Deliverables section for this module. Up to 20% replacement features depending upon specific needs of IoTeX blockchain.
+  - Module – Coin Holder Tools -
+    - Scope - 80% of remaining features mentioned in Deliverables section for this module. Up to 20% replacement features depending upon specific needs of IoTeX blockchain.
+  - Module – Network Stats -
+    - Scope - 80% of remaining features mentioned in Deliverables section for this module. Up to 20% replacement features depending upon specific needs of IoTeX blockchain.
+  - Implementation date - within 12 weeks after contract start
+  - Funding - 2.8 million IOTX
 
 ## Total Budget Requested
 
-TBD
+4 million IOTX
 
 ## Maintenance and Upgrade Plans
 
 - New features will be added as the blockchain evolves and as the community needs change
 - Blockchain/data sync up processes will be monitored for timely execution
-- Security fixes, bug fixes, & performance improvements will be done as needed
+- Security fixes, bug fixes, & performance improvements will be performed as needed
 - Library/dependency upgrades will be assessed/performed twice a year
 
 # Team
