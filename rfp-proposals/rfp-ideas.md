@@ -75,12 +75,12 @@ Despite the potential gains, there are several obstacles that limit the wider de
 &nbsp;
 
 ### Privacy-preserving XRC20 Tokens ###
-Privacy-preserving XRC20 tokens are preferred in some use cases. Implementing such a token using zk-snark such as [Aztec Protocol](https://www.aztecprotocol.com/) or [Zether](https://crypto.stanford.edu/~buenz/papers/zether.pdf) will be an impact initiative! Comparing to Ethereum, we do have the plan to support additional instructions for EVM to advocate the usage of ZK.
+Privacy-preserving XRC20 tokens are preferred in some use cases. Implementing such a token using zk-SNARK such as [Aztec Protocol](https://www.aztecprotocol.com/) or [Zether](https://crypto.stanford.edu/~buenz/papers/zether.pdf) will be an impact initiative! Comparing to Ethereum, we do have the plan to support additional instructions for EVM to promote the usage of ZK.
 
 &nbsp;
 
 ### Digital Twin for Devices ###
-A digital twin is a digital replica of a device which can be implemented as a DAO using smart contracts. Some sort of protocol needs to be designed to "bind" a device to its digital twin based Decentralized Identity (DID). Once a device can be represented by a digital twin on chain, IFTTT can be implemented as a DAO.
+A digital twin is a digital replica of a device which can be implemented as a DAO using smart contracts. Some sort of protocol needs to be designed to "bind" a device to its digital twin based on Decentralized Identity (DID). Once a device gets represented by a digital twin on chain, IFTTT can be implemented as a DAO, which could be a fun and profitable project! 
 
 &nbsp;
 
