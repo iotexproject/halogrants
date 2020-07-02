@@ -9,6 +9,8 @@
 - [ioPay as A Browser Extention](#iopay-as-a-browser-extention)
 - [IoTeX All-in-One For Dummies](#iotex-all-in-one-for-dummies)
 - [Privacy-preserving Healthcare Applications](#privacy-preserving-e-health-applications)
+- [Privacy-preserving XRC20 Tokens](#privacy-preserving-xrc20-tokens)
+- [Digital Twin for Devices](#digital-twin-for-devices)
 
 
 ## Low Priority
@@ -69,6 +71,16 @@ ioPay (https://iopay.iotex.io/) comes with two flavours - desktop version (suppo
 
 ### Privacy-preserving e-Health Applications ###
 Despite the potential gains, there are several obstacles that limit the wider development of e-health applications. Among these are the perceived threats to the security and privacy of patients' health data, and a widely held belief that these cannot be adequately addressed. We would recommend developers to implement privacy-preserving e-health applications based on customizable hardware such as [e-Health Sensor Platform V2.0 for Arduino and Raspberry Pi](https://www.cooking-hacks.com/documentation/tutorials/ehealth-biometric-sensor-platform-arduino-raspberry-pi-medical.html) and IoTeX platform.
+
+&nbsp;
+
+### Privacy-preserving XRC20 Tokens ###
+Privacy-preserving XRC20 tokens are preferred in some use cases. Implementing such a token using zk-snark such as [Aztec Protocol](https://www.aztecprotocol.com/) or [Zether](https://crypto.stanford.edu/~buenz/papers/zether.pdf) will be an impact initiative! Comparing to Ethereum, we do have the plan to support additional instructions for EVM to advocate the usage of ZK.
+
+&nbsp;
+
+### Digital Twin for Devices ###
+A digital twin is a digital replica of a device which can be implemented as a DAO using smart contracts. Some sort of protocol needs to be designed to "bind" a device to its digital twin based Decentralized Identity (DID). Once a device can be represented by a digital twin on chain, IFTTT can be implemented as a DAO.
 
 &nbsp;
 
