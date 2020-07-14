@@ -20,75 +20,34 @@ Smart Stake dashboards make it very easy to understand delegate performance and 
 
 ## Deliverables
 
-- Module - Delegate Performance - Delegate performance module allows assessment of performance of each delegate in near real-time (1 epoch, 8 epochs), short term (1 day, 7 days), long term (21 days) windows. The tooling will allow individual coin holders to assess the performance of the delegates they stake with or want to stake with. These tools are also useful for monitoring of the delegate health by delegates, by IoTeX, and by community
-  - Delegate list - listing of all delegates status, uptime, rewards, expected returns, expected returns index (a relative performance index). Allows marking delegates as favorite for easy access.
-    -	Expected Return Index –  is a ratio of the Expected Returns/ER of a delegate as compared to the Average ER of all delegates in a given time window. A ratio of 1 means that a delegate is performing at an average level. A value <1 means that it performing worse than average and a value >1 means that it is performing better than average. This allows relative assessment of all delegates based on the returns.
+- Performance Dashboard - Delegate performance dashboard allows assessment of performance of each delegate in near real-time (1 epoch, 8 epochs), short term (1 day, 7 days), long term (21 days) windows. The tooling will allow individual coin holders to assess the performance of the delegates they stake with or want to stake with. These tools are also useful for monitoring of the delegate health by delegates, by IoTeX, and by community. Features included are:
+  - Delegate list - listing of all delegates status, uptime, rewards, past returns, past returns index (a relative performance index), expected returns, expected returns index. Allows marking delegates as favorite for easy access.
+    -	Returns Index –  is a ratio of the returns (past/expected) of a delegate as compared to the average returns of all delegates in a given time window. A ratio of 1 means that a delegate is performing (or expected to perform) at an average level. A value <1 means worse than average and a value >1 means better than average. This allows relative assessment of all delegates based on the past or expected returns.
+    - Visual indicators on delegate list and details screens for delegate performance and returns
   - Delegate details screens - shows basic delegate details and includes epoch and daily performance data presented using visual charts and tables
-  -	Provide summary stats for blocks, rewards earned by delegates per epoch/day. Provide historical views for all performance stats and relevant delegate details. Stake history for delegate – chart showing how the staking history has changed for delegate over time since launch
-  -	Delegate events – tabular view of all events related to a given delegate e.g. new votes, un-stake, fee changes, rewards claim and the amounts involved. Unlike a typical transaction explorer, the key difference here will be use of delegate names to improve readability
-  -	Notification on delegate home pages or delegate list screen for fee changes or degraded performance
-  - Delegate voter list screen with basic rewards details
-  -	Build a telegram bot with: Performance summary of all delegates. Performance/health details of favorite delegates
-- Module – Coin Holder Tools - The following features will be assessed and implemented to provide various views for coin holders to assess how their staked coins are growing or have grown or are expected to grow in future.
-  - Rewards — provide outstanding undistributed rewards for IoTeX addresses.
-    - Provide anonymous access to individual rewards across devices without requiring users to re-enter their address on each use.
-    - Provide breakdown by individual delegates used.
-    - Support multiple addresses within one view.
-    - Show just-in-time comparison of returns from each delegate
-    - Show rewards/address details with current BTC/USD value
-  -	Rewards history — historical listing of all rewards for given set of addresses.
-    - Summarizes rewards at monthly/annual levels.
-    - Provide breakdown by individual delegate.
-    - Includes chart reflecting state of rewards at the end of each day (more like end-of-day rewards balance history)
-  -	Overall Address details - show breakdown of an address by showing coins staked with individual delegates.
-    - Show coins held that are not staked.
-    - Show rewards/address details with current BTC/USD value
-  -	Address stake history – visual chart showing address stake history
-  -	Address events – tabular view of all events related to a given address e.g. voting, un-staking, rewards claim and the amounts involved. Unlike a typical transaction explorer, the key difference here will be use of delegate names to improve readability
-  -	Rewards Calculator – Rewards calculator with calculations based on given delegates and their fee structure
-  -	Add address and address rewards feature in the telegram bot
-- Module – Network Stats - Smart Stake will develop the following features related to IoTeX network stats:
-  -	Overall network stats – screen summarizing various high level stats for the network e.g. circulating supply, total supply, coins staked, %age staked, current mcap, current stake’s $/BTC value, overall expected return based on current staked amount and annual rewards
-  -	Overall network richlist with named account – allows visual/simplified monitoring of whale accounts/exchanges
-  -	Block production rate for network at epoch level
-  -	Stake history for network – Chart showing how the staking history is progressing over time
-  -	Overall rich list (staking n non-staking combined) - rank all active addresses with a non-zero balance based on coins held (including staked). Show 100, 1000 or all addresses. Allow search within loaded results
+  - Voter list screen per delegate with vote amount and basic rewards details
+  - Breakdown/details for the expected returns and expected returns index - The idea is to show details for transparency and building understanding of the inner workings of the rewards system for the community
+- Telegram Bot - Build a telegram bot with performance summary of all validators, ability to set multiple favorite validators, and assess performance of favorite validators. The details provided per validator will include past and expected returns.
+
 
 ## Development Roadmap
 
 Most of the features outlined in this document depend on a mature set of APIs exposed by the blockchain itself. The milestones outlined here can be met only if the foundational data can be obtained using IoTeX defined APIs in IoTeX Core or using REST/RPC/etc. kind of methods.
-Smart Stake will commit to delivering 80%+ of the original features within 12 weeks of entering the contract. It is assumed that up to 20% of the features mentioned above may be not relevant enough or not doable if appropriate/reliable API is not available. For every such feature, Smart Stake will work with IoTeX representative to build a comparable effort feature in the given timeline.
+Smart Stake will commit to delivering all features within 6 weeks of the start date. If a feature cannot be built because of lack of availability of appropriate API, an alternative/equivalent effort feature will be built after discussing with IoTeX representative.
 
 Milestones:
-- Phase 1 - Basic dashboard and telegram bot
-  - Delegate list - listing of all delegates status, uptime, and rewards. Allows marking delegates as favorite for easy access. 
-    - Show Expected returns and expected returns index (a relative performance index). Expected Return Index allows relative performance assessment of all delegates based on the returns received.
-    - Timeframes supported - 1 day and 1 week i.e. assess performance for ongoign day and last 7 days
-  - Delegate details screens - shows basic delegate details and includes epoch and daily performance data presented using visual charts and tables
-  - Voter list screen for a delegate - including basic summary of amount staked and rewards
-  - Basic Telegram Bot - Build a telegram bot with basic summary of all validators, favorite validators
-  - Background foundational data - capture delegate details, delegate data changes throughout the day. Scrape the data to figure out how each validator is performing  
-  - Implementation date - within 4 weeks after contract start
+- Performance Dashboard & Telegram Bot
+  - All features mentioned in deliverables
+  - Implementation date - within 6 weeks after start
   - Funding - 1.2 million IOTX
 
 
-- Phase 2 - Advanced dashboard and telegram bot
-  - Module - Delegate Performance
-    - Scope - 80% of remaining features mentioned in Deliverables section for this module. Up to 20% replacement features depending upon specific needs of IoTeX blockchain.
-  - Module – Coin Holder Tools -
-    - Scope - 80% of remaining features mentioned in Deliverables section for this module. Up to 20% replacement features depending upon specific needs of IoTeX blockchain.
-  - Module – Network Stats -
-    - Scope - 80% of remaining features mentioned in Deliverables section for this module. Up to 20% replacement features depending upon specific needs of IoTeX blockchain.
-  - Implementation date - within 12 weeks after contract start
-  - Funding - 2.8 million IOTX
-
 ## Total Budget Requested
 
-4 million IOTX
+1.2 million IOTX
 
 ## Maintenance and Upgrade Plans
 
-- New features will be added as the blockchain evolves and as the community needs change
 - Blockchain/data sync up processes will be monitored for timely execution
 - Security fixes, bug fixes, & performance improvements will be performed as needed
 - Library/dependency upgrades will be assessed/performed twice a year
