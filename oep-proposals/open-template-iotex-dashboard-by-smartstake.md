@@ -27,7 +27,8 @@ Smart Stake dashboards make it very easy to understand delegate performance and 
   - Delegate details screens - shows basic delegate details and includes epoch and daily performance data presented using visual charts and tables
   - Voter list screen per delegate with vote amount and basic rewards details
   - Breakdown/details for the expected returns and expected returns index - The idea is to show details for transparency and building understanding of the inner workings of the rewards system for the community
-  - Basic Telegram Bot - Build a telegram bot with basic summary of all validators, favorite validators. The details provided will include key data made available in the web application.
+- Telegram Bot - Build a telegram bot with performance summary of all validators, ability to set multiple favorite validators, and assess performance of favorite validators. The details provided per validator will include past and expected returns.
+
 
 ## Development Roadmap
 
@@ -35,7 +36,7 @@ Most of the features outlined in this document depend on a mature set of APIs ex
 Smart Stake will commit to delivering all features within 6 weeks of the start date. If a feature cannot be built because of lack of availability of appropriate API, an alternative/equivalent effort feature will be built after discussing with IoTeX representative.
 
 Milestones:
-- Performance Dashboard
+- Performance Dashboard & Telegram Bot
   - All features mentioned in deliverables
   - Implementation date - within 6 weeks after start
   - Funding - 1.2 million IOTX
