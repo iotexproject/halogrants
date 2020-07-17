@@ -10,8 +10,8 @@
 - [IoTeX All-in-One For Dummies](#iotex-all-in-one-for-dummies)
 - [Privacy-preserving Healthcare Applications](#privacy-preserving-e-health-applications)
 - [Privacy-preserving XRC20 Tokens](#privacy-preserving-xrc20-tokens)
+- [Privacy-preserving Swap of Regular XRC20 Tokens](#privacy-preserving-swap-of-regular-xrc20-tokens)
 - [Digital Twin for Devices](#digital-twin-for-devices)
-
 
 ## Low Priority
 - Multi-language SDKs (Python, Ruby, Swift, Kotlin)
@@ -76,6 +76,11 @@ Despite the potential gains, there are several obstacles that limit the wider de
 
 ### Privacy-preserving XRC20 Tokens ###
 Privacy-preserving XRC20 tokens are preferred in some use cases. Implementing such a token using zk-SNARK such as [Aztec Protocol](https://www.aztecprotocol.com/) or [Zether](https://crypto.stanford.edu/~buenz/papers/zether.pdf) will be an impact initiative! Comparing to Ethereum, we do have the plan to support additional instructions for EVM to promote the usage of ZK.
+
+&nbsp;
+
+### Privacy-preserving Swap of Regular XRC20 Tokens ###
+While pivacy-preserving XRC20 tokens are important, the privacy-preserving "swap" of regular XRC20 tokens are interesting too! The academic researchers we are working with have already finished the design of such a scheme called [PrivateEx](https://www.researchgate.net/publication/340270180_PrivateEx_privacy_preserving_exchange_of_crypto-assets_on_blockchain) and we are calling for a live implementation of it in the "Uniswap" fashion!
 
 &nbsp;
 
