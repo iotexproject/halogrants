@@ -5,7 +5,7 @@
 - [Stable Coins](#stalbe-coins)
 - [Decentralized Exchange](#decentralized-exchange)
 - [Hardware Wallet Support](#hardware-wallet-support)
-- [ioPay as A Browser Extention](#iopay-as-a-browser-extention)
+- [Browser Extention Wallet](#browser-extention-wallet)
 - [IoTeX All-in-One For Dummies](#iotex-all-in-one-for-dummies)
 - [Privacy-preserving Healthcare Applications](#privacy-preserving-e-health-applications)
 - [Privacy-preserving XRC20 Tokens](#privacy-preserving-xrc20-tokens)
@@ -51,8 +51,8 @@ A hardware wallet is a special type of cryptocurrency wallet which stores the us
 
 &nbsp;
 
-### ioPay as A Browser Extention ###
-ioPay (https://iopay.iotex.io/) comes with two flavours - desktop version (supporting Windows, MacOS and Linux) and mobile version (iOS and Android). Having ioPay as a browser extention will hugely invcentive Dapps to integrate with IoTeX blockchain and be beneficial for the ecosystem. This browser extention should coome with all features of ioPay, e.g., account management, send/review transaction, invoke smart contract, safe and easy to use.
+### Browser Extention Wallet ###
+IOTX wallet such as ioPay (https://iopay.iotex.io/) comes with two flavours - desktop version (supporting Windows, MacOS and Linux) and mobile version (iOS and Android). Having a wallet as a browser extention will hugely invcentive Dapps to integrate with IoTeX blockchain and be beneficial for the ecosystem. This browser extention should coome with all features similar to ioPay, e.g., account management, send/review transaction, invoke smart contract, safe and easy to use.
 
 &nbsp;
 
