@@ -2,7 +2,6 @@
 
 ## High Priority
 - [Dashboard to Track Halo projects](#dashboard-to-track-halo-projects)
-- [Online IDE](#online-ide)
 - [Stable Coins](#stalbe-coins)
 - [Decentralized Exchange](#decentralized-exchange)
 - [Hardware Wallet Support](#hardware-wallet-support)
@@ -32,13 +31,6 @@ While we track progress of every Halo projects on Github to achieve the highest 
 - automatic tracking and visualization of milestones of projects
 - automatic tracking and visualization of project traction, e.g., DAU, daily active txs and so on
 
-&nbsp;
-
-### Online IDE ###
-An online IDE for development of smart contract and to interate with IoTeX blockchain is a long-awaited product! We have had the basic version of IoTeX IDE (http://ide.iotex.io/) up and running, which still lacks many desired features. One needs to iterate on top of the open-source-d IDE to make it a full-fledged product for all developers including the core-dev! Some of the desired features are:
-- compile (of either local and remote smart contract files) and deploy the bytecodes to IoTeX mainnet and testnet
-- support read from and write to a contract in a user-friendly way
-- support extended instructions of EVM that IoTeX implemented (bonus!)
 
 &nbsp;
 
