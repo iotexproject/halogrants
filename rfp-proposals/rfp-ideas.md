@@ -2,6 +2,7 @@
 
 ## High Priority
 - [Dashboard to Track Halo projects](#dashboard-to-track-halo-projects)
+- [Token Minting Tools](#token-minting-tools)
 - [Stable Coins](#stalbe-coins)
 - [Decentralized Exchange](#decentralized-exchange)
 - [Hardware Wallet Support](#hardware-wallet-support)
@@ -31,6 +32,11 @@ While we track progress of every Halo projects on Github to achieve the highest 
 - automatic tracking and visualization of milestones of projects
 - automatic tracking and visualization of project traction, e.g., DAU, daily active txs and so on
 
+
+&nbsp;
+
+### Token Minting Tools ###
+Build a user-friendly web service for user to mint XRC20 tokens on top of IoTeX, e.g., https://tokenmint.io/, where user can mint a new token within a few clicks.
 
 &nbsp;
 
