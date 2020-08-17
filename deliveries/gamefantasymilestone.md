@@ -2,7 +2,7 @@
 
 **The [invoice form :pencil:](https://forms.gle/F1KyBdUKK2RaYxHdA) has been filled out correctly for this milestone.**  
 
-* **PR Link:** [Cats Around The World](https://github.com/wqwqwq219/halogrants/blob/master/oep-proposals/open-proposal-gamefantasy.md).
+* **PR Link:** [Cats Around The World](https://github.com/iotexproject/halogrants/blob/master/oep-proposals/open-proposal-gamefantasy.md).
 * **Milestone Number:** Milestone 3
 
 List of all deliverables
