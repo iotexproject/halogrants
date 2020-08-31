@@ -12,6 +12,8 @@
 - [Privacy-preserving XRC20 Tokens](#privacy-preserving-xrc20-tokens)
 - [Privacy-preserving Swap of Regular XRC20 Tokens](#privacy-preserving-swap-of-regular-xrc20-tokens)
 - [Digital Twin for Devices](#digital-twin-for-devices)
+- [Antenna SDK for Arduino Boards](#antenna-sdk-for-arduino-boards)
+
 
 ## Low Priority
 - Multi-language SDKs (Python, Ruby, Swift, Kotlin)
@@ -84,6 +86,11 @@ While pivacy-preserving XRC20 tokens are important, the privacy-preserving "swap
 
 ### Digital Twin for Devices ###
 A digital twin is a digital replica of a device which can be implemented as a DAO using smart contracts. Some sort of protocol needs to be designed to "bind" a device to its digital twin based on Decentralized Identity (DID). Once a device gets represented by a digital twin on chain, IFTTT can be implemented as a DAO, which could be a fun and profitable project! 
+
+&nbsp;
+
+### Antenna SDK for Arduino Boards ###
+Arduino is a great platform for people & makers to experiment, learn and build IoT applications. Joining Arduino & IoTeX would take these IoT projects to the next level, allowing people to effectively integrate an IoT-friendly Blockchain into their devices and applications. While IoTeX already provides some C++ examples (antenna-embedded), a comprehensive antenna-arduino library that implements IoTeX Antenna SDKs and is easily imported into Arduino projects is missing. Such a port should provide at least Account creation, Transaction signing, and gRPC communication with a IoTeX Full-Node to broadcast transactions (both token transfers and smart contract calls), query transaction status and accounts balance. This should run on the most popular Arduino boards, including the UNO, Nano & Mega.      
 
 &nbsp;
 
