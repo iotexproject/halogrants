@@ -50,11 +50,20 @@ Open-source repo and published chrome extension
 
 ## Total Budget Requested
 
-N/A
+Grants are requested for the following two phases
+
+* v0.5
+* v1
 
 ## Maintenance and Upgrade Plans
 
-Will be part of Beancount wallet and ledger services.
+This chrome extension wallet will be part of beancount.io finance tools. We will maintain IoTeX features described in v0.5 and v1.0, including:
+
+1. bug fixes
+2. dependency bumps
+
+Further development, for example XRC20-support, staking, bookkeeping, ETH wallet, BTC wallet, portfolio analysis, etc., is open for discussion and will be decided after the V1 development.
+
 
 # Team
 
@@ -80,7 +89,7 @@ Previous member of iotex team.
 
 ## Team code repositories
 
-https://github.com/iotexproject/iotex-explorer
+https://github.com/puncsky/extension-beancount-wallet
 
 # Additional Information
 
