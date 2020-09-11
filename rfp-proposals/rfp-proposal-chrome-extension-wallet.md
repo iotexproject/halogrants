@@ -12,7 +12,7 @@
 
 # Project Description
 
-This project will enable users transfer tokens and connect to DApps via the chrome extension.
+This project will enable users to transfer tokens and connect to DApps via the chrome extension.
 
 ## Deliverables
 
@@ -50,7 +50,7 @@ Open-source repo and published chrome extension
 
 ## Total Budget Requested
 
-Grants are requested for the following two phases
+Grants are requested for the following two phases.
 
 * v0.5
 * v1
@@ -62,7 +62,7 @@ This chrome extension wallet will be part of beancount.io finance tools. We will
 1. bug fixes
 2. dependency bumps
 
-Further development, for example XRC20-support, staking, bookkeeping, ETH wallet, BTC wallet, portfolio analysis, etc., is open for discussion and will be decided after the V1 development.
+Further development, for example, XRC20-support, staking, bookkeeping, ETH wallet, BTC wallet, portfolio analysis, etc., is open for discussion and will be decided after the V1 development.
 
 
 # Team
@@ -85,7 +85,7 @@ https://beancount.io/
 
 ## Relevant Experience
 
-Previous member of iotex team. 
+Previous member of IoTeX team. 
 
 ## Team code repositories
 
