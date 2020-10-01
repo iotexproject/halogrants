@@ -19,7 +19,7 @@
 - Multi-language SDKs (Python, Ruby, Swift, Kotlin)
 - Code labs: DIY creative Dapps
 
-Note that projects tagged with `WIP` indicating a team is working on it.
+**Note that projects tagged with `WIP` indicating a team is working on it.**
 
 We also accept **Open-ended Proposals** where you can suggest your own project idea.
 
@@ -29,7 +29,7 @@ We also accept **Open-ended Proposals** where you can suggest your own project i
 
 ------
 
-### Dashboard to track Halo Projects
+### Dashboard to track Halo Projects (WIP)
 
 While we track progress of every Halo projects on Github to achieve the highest transparency, it would be great to have a nice dashboard to track projects visually and user-friendly. The required features are
 - automatic tracking and visualization of applications
