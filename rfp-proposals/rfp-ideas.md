@@ -2,7 +2,6 @@
 
 ## High Priority
 - [Dashboard to Track Halo projects](#dashboard-to-track-halo-projects)
-- [Token Minting Tools](#token-minting-tools)
 - [Stable Coins](#stalbe-coins)
 - [Innovative Assets](#innovative-assets)
 - [Hardware Wallet Support](#hardware-wallet-support)
@@ -13,6 +12,7 @@
 - [Privacy-preserving Swap of Regular XRC20 Tokens](#privacy-preserving-swap-of-regular-xrc20-tokens)
 - [Digital Twin for Devices](#digital-twin-for-devices)
 - [Antenna SDK for Arduino Boards](#antenna-sdk-for-arduino-boards)
+- [Dapp Analytics](#dapps-analytics)
 
 
 ## Low Priority
@@ -36,11 +36,6 @@ While we track progress of every Halo projects on Github to achieve the highest 
 - automatic tracking and visualization of milestones of projects
 - automatic tracking and visualization of project traction, e.g., DAU, daily active txs and so on
 
-
-&nbsp;
-
-### Token Minting Tools (WIP) ###
-Build a user-friendly web service for user to mint XRC20 tokens on top of IoTeX, e.g., https://tokenmint.io/, where user can mint a new token within a few clicks.
 
 &nbsp;
 
@@ -97,3 +92,7 @@ Arduino is a great platform for people & makers to experiment, learn and build I
 
 &nbsp;
 
+### Dapp Analytics ###
+With more Dapps built on top of IoTeX, we need a tool/dashboard/service to track metrics such as transactions, assets-under-management, tokens flow in/out for a specific Dapp -- think it as Google Analytics for IoTeX. A good example is [duneanalytics](duneanalytics.com) for Ethereum. One can leverage [the real-time and strucutred IoTeX data set](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-iotex-pubsub?filter=category:big-data&filter=solution-type:dataset&q=iotex%20cryptocurrency%20real-time%20data&id=a5843070-576e-47f3-ad8d-d39243a7a37f&walkthrough_tutorial_id=java_gae_quickstart) that already ingested.
+
+&nbsp;
