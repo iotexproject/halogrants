@@ -31,12 +31,12 @@ Recommended proposal types include, but are not limited to:
 1. Anyone (individuals or teams) is welcome to submit their proposals via pull requests to this repo (follow the given templates [here](https://github.com/iotexproject/halogrants/tree/master/rfp-proposals) and [here](https://github.com/iotexproject/halogrants/tree/master/oep-proposals)); once committed, please submit your proposal to the [IoTeX Forum - Technology & Developers](https://community.iotex.io/c/research-development/7) section for open discussion.
 2. The IoTeX Foundation will review your proposal within two weeks. We will provide feedback/suggestions and optionally schedule a call to discuss your idea, after which we will approve/reject the proposal. We will expand the proposal selection committee as time goes by, including community leaders, project advisors, and external technologists.
 3. If a grant is awarded, grant recipients will receive their IOTX grants periodically based on predetermined milestones for the specific grant. Note that the issuance of funding differs for RFPs and OEPs.
-4. Grant recipients will be required to produce [Milestone Reports](https://github.com/iotexproject/halogrants/blob/master/oep-proposals/milestone-report-template.md) in order to continue to receive grant funding. If the Milestone Report shows the initiative is not meeting expectations, the Foundation will work with you to get back on track; however, if problems persist we may halt continued funding. The submission cycle of the Milestone Report will vary according to each project’s duration.
+4. Grant recipients will be required to produce [Milestone Reports](https://github.com/iotexproject/halogrants/blob/master/deliveries/project_milestone_n_template.md) in order to continue to receive grant funding. If the Milestone Report shows the initiative is not meeting expectations, the Foundation will work with you to get back on track; however, if problems persist we may halt continued funding. The submission cycle of the Milestone Report will vary according to each project’s duration.
 
 ## Eligibility
 1. Proposal should be clear about how they will benefit the IoTeX ecosystem. We are primarily interested in projects that can be completed in 3 months or less -- longer projects may be split into multiple grants for easier tracking/management.
 2. Teams and individuals can apply for grants more than once, but they need to complete the previous project (as described in their application) before receiving additional funds.
-3. Teams should not seek to cover 100% of their early-stage funding via Halo Grants alone. 
+3. Teams should not seek to cover 100% of their early-stage funding via Halo Grants alone.
 4. All projects must be open-sourced (under MIT and APACHE2 licenses) and all teams must be self-managed.
 
 ## Resources & Community

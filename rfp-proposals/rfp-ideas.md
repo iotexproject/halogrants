@@ -2,18 +2,24 @@
 
 ## High Priority
 - [Dashboard to Track Halo projects](#dashboard-to-track-halo-projects)
-- [Online IDE](#online-ide)
 - [Stable Coins](#stalbe-coins)
-- [Decentralized Exchange](#decentralized-exchange)
+- [Innovative Assets](#innovative-assets)
 - [Hardware Wallet Support](#hardware-wallet-support)
-- [ioPay as A Browser Extention](#iopay-as-a-browser-extention)
+- [Browser Extention Wallet](#browser-extention-wallet)
 - [IoTeX All-in-One For Dummies](#iotex-all-in-one-for-dummies)
 - [Privacy-preserving Healthcare Applications](#privacy-preserving-e-health-applications)
+- [Privacy-preserving XRC20 Tokens](#privacy-preserving-xrc20-tokens)
+- [Privacy-preserving Swap of Regular XRC20 Tokens](#privacy-preserving-swap-of-regular-xrc20-tokens)
+- [Digital Twin for Devices](#digital-twin-for-devices)
+- [Antenna SDK for Arduino Boards](#antenna-sdk-for-arduino-boards)
+- [Dapp Analytics](#dapps-analytics)
 
 
 ## Low Priority
 - Multi-language SDKs (Python, Ruby, Swift, Kotlin)
 - Code labs: DIY creative Dapps
+
+**Note that projects tagged with `WIP` indicating a team is working on it.**
 
 We also accept **Open-ended Proposals** where you can suggest your own project idea.
 
@@ -23,20 +29,13 @@ We also accept **Open-ended Proposals** where you can suggest your own project i
 
 ------
 
-### Dashboard to track Halo Projects
+### Dashboard to track Halo Projects (WIP)
 
 While we track progress of every Halo projects on Github to achieve the highest transparency, it would be great to have a nice dashboard to track projects visually and user-friendly. The required features are
 - automatic tracking and visualization of applications
 - automatic tracking and visualization of milestones of projects
 - automatic tracking and visualization of project traction, e.g., DAU, daily active txs and so on
 
-&nbsp;
-
-### Online IDE ###
-An online IDE for development of smart contract and to interate with IoTeX blockchain is a long-awaited product! We have had the basic version of IoTeX IDE (http://ide.iotex.io/) up and running, which still lacks many desired features. One needs to iterate on top of the open-source-d IDE to make it a full-fledged product for all developers including the core-dev! Some of the desired features are:
-- compile (of either local and remote smart contract files) and deploy the bytecodes to IoTeX mainnet and testnet
-- support read from and write to a contract in a user-friendly way
-- support extended instructions of EVM that IoTeX implemented (bonus!)
 
 &nbsp;
 
@@ -47,18 +46,19 @@ Stablecoins are cryptocurrencies designed to minimize the volatility of the pric
 
 &nbsp;
 
-### Decentralized Exchange ###
-A decentralized exchange (DEX) is a cryptocurrency exchange which operates in a decentralized way, i.e., without a central authority. Decentralized exchanges allow peer-to-peer trading of cryptocurrencies. Since IoTeX supports EVM and solidity (and super fast!), it would be possible to launch a DEX on top of IoTeX blockchain. DEX could come with orderbooks (e.g., DDEX) or not (e.g., Uniswap) but should be secure, fast and convinent for people to use.
+### Innovative Assets ###
+Minting and issuing new innovative assets as financial experiments is welcomed! IoTeX provides the smart contracts and tools, decentrealized exchange [mimo](https://mimo.finance), edge oracle (upcoming), hardware devices as well as an active and encouraging community to support innovation in #DeFIoT space!
 
 &nbsp;
+
 
 ### Hardware Wallet Support ###
 A hardware wallet is a special type of cryptocurrency wallet which stores the user's private keys in a secure hardware device. They have major advantages over standard software wallets: private keys are often stored in a protected area of a microcontroller, and cannot be transferred out of the device in plaintext. While core-dev is working with Ledger closely to lauch IOTX wallet for nano S/X wallets, we desire to support native IOTX on other hardware wallets such as Trezor, KeepPay and many others. Help us develop firmwarre for mainstream hardware wallets!
 
 &nbsp;
 
-### ioPay as A Browser Extention ###
-ioPay (https://iopay.iotex.io/) comes with two flavours - desktop version (supporting Windows, MacOS and Linux) and mobile version (iOS and Android). Having ioPay as a browser extention will hugely invcentive Dapps to integrate with IoTeX blockchain and be beneficial for the ecosystem. This browser extention should coome with all features of ioPay, e.g., account management, send/review transaction, invoke smart contract, safe and easy to use.
+### Browser Extention Wallet (WIP) ###
+IOTX wallet such as ioPay (https://iopay.iotex.io/) comes with two flavours - desktop version (supporting Windows, MacOS and Linux) and mobile version (iOS and Android). Having a wallet as a browser extention will hugely invcentive Dapps to integrate with IoTeX blockchain and be beneficial for the ecosystem. This browser extention should coome with all features similar to ioPay, e.g., account management, send/review transaction, invoke smart contract, safe and easy to use.
 
 &nbsp;
 
@@ -72,3 +72,27 @@ Despite the potential gains, there are several obstacles that limit the wider de
 
 &nbsp;
 
+### Privacy-preserving IOTX and XRC20 Tokens ###
+Privacy-preserving XRC20 tokens are preferred in some use cases. Implementing such a token using zk-SNARK such as [Aztec Protocol](https://www.aztecprotocol.com/) or [Zether](https://crypto.stanford.edu/~buenz/papers/zether.pdf) will be an impact initiative! Comparing to Ethereum, we do have the plan to support additional instructions for EVM to promote the usage of ZK.
+
+&nbsp;
+
+### Privacy-preserving Swap of IOTX and XRC20 Tokens ###
+While pivacy-preserving XRC20 tokens are important, the privacy-preserving "swap" of regular XRC20 tokens are interesting too! The academic researchers we are working with have already finished the design of such a scheme called [PrivateEx](https://www.researchgate.net/publication/340270180_PrivateEx_privacy_preserving_exchange_of_crypto-assets_on_blockchain) and we are calling for a live implementation of it in the "Uniswap" fashion!
+
+&nbsp;
+
+### Digital Twin for Devices ###
+A digital twin is a digital replica of a device which can be implemented as a DAO using smart contracts. Some sort of protocol needs to be designed to "bind" a device to its digital twin based on Decentralized Identity (DID). Once a device gets represented by a digital twin on chain, IFTTT can be implemented as a DAO, which could be a fun and profitable project! 
+
+&nbsp;
+
+### Antenna SDK for Arduino Boards ###
+Arduino is a great platform for people & makers to experiment, learn and build IoT applications. Joining Arduino & IoTeX would take these IoT projects to the next level, allowing people to effectively integrate an IoT-friendly Blockchain into their devices and applications. While IoTeX already provides some C++ examples (antenna-embedded), a comprehensive antenna-arduino library that implements IoTeX Antenna SDKs and is easily imported into Arduino projects is missing. Such a port should provide at least Account creation, Transaction signing, and gRPC communication with a IoTeX Full-Node to broadcast transactions (both token transfers and smart contract calls), query transaction status and accounts balance. This should run on the most popular Arduino boards, including the UNO, Nano & Mega.      
+
+&nbsp;
+
+### Dapp Analytics ###
+With more Dapps built on top of IoTeX, we need a tool/dashboard/service to track metrics such as transactions, assets-under-management, tokens flow in/out for a specific Dapp -- think it as Google Analytics for IoTeX. A good example is [duneanalytics](duneanalytics.com) for Ethereum. One can leverage [the real-time and strucutred IoTeX data set](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-iotex-pubsub?filter=category:big-data&filter=solution-type:dataset&q=iotex%20cryptocurrency%20real-time%20data&id=a5843070-576e-47f3-ad8d-d39243a7a37f&walkthrough_tutorial_id=java_gae_quickstart) that already ingested.
+
+&nbsp;
