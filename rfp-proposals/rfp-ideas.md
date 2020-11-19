@@ -13,7 +13,7 @@
 - [Digital Twin for Devices](#digital-twin-for-devices)
 - [Antenna SDK for Arduino Boards](#antenna-sdk-for-arduino-boards)
 - [Dapp Analytics](#dapps-analytics)
-
+- [Pebble Related](#pebble-related)
 
 ## Low Priority
 - Multi-language SDKs (Python, Ruby, Swift, Kotlin)
@@ -96,3 +96,9 @@ Arduino is a great platform for people & makers to experiment, learn and build I
 With more Dapps built on top of IoTeX, we need a tool/dashboard/service to track metrics such as transactions, assets-under-management, tokens flow in/out for a specific Dapp -- think it as Google Analytics for IoTeX. A good example is [duneanalytics](duneanalytics.com) for Ethereum. One can leverage [the real-time and strucutred IoTeX data set](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-iotex-pubsub?filter=category:big-data&filter=solution-type:dataset&q=iotex%20cryptocurrency%20real-time%20data&id=a5843070-576e-47f3-ad8d-d39243a7a37f&walkthrough_tutorial_id=java_gae_quickstart) that already ingested.
 
 &nbsp;
+
+### Pebble Related ###
+- On-device **zksnark lib** which can produces proof of the device's presence at a certain geo locaiton without leaking its actual GPS readings.
+
+&nbsp;
+
