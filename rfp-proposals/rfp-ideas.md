@@ -12,7 +12,7 @@
 - [Privacy-preserving Swap of Regular XRC20 Tokens](#privacy-preserving-swap-of-regular-xrc20-tokens)
 - [Digital Twin for Devices](#digital-twin-for-devices)
 - [Antenna SDK for Arduino Boards](#antenna-sdk-for-arduino-boards)
-- [Dapp Analytics](#dapps-analytics)
+- [Dapp Analytics](#dapp-analytics)
 - [Pebble Related](#pebble-related)
 
 ## Low Priority
@@ -99,6 +99,8 @@ With more Dapps built on top of IoTeX, we need a tool/dashboard/service to track
 
 ### Pebble Related ###
 - On-device **zksnark lib** which can produces proof of the device's presence at a certain geo locaiton without leaking its actual GPS readings.
+- A **Decentralized Autonomous Corporation (DAC)** based on the trustworthy insights from pebble.
+- **Supply-chain management and financing**
 
 &nbsp;
 
