@@ -98,7 +98,8 @@ With more Dapps built on top of IoTeX, we need a tool/dashboard/service to track
 &nbsp;
 
 ### Pebble Related ###
-- On-device **zksnark lib** which can produces proof of the device's presence at a certain geo locaiton without leaking its actual GPS readings.
+- A **Pokemon** alike game with certain token eonomics and fun to play!
+- On-device **zkSNARK lib** which can produces proof of the device's presence at a certain geo locaiton without leaking its actual GPS readings.
 - A **Decentralized Autonomous Corporation (DAC)** based on the trustworthy insights from pebble.
 - **Supply-chain management and financing**
 
