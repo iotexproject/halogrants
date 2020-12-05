@@ -5,7 +5,7 @@
 - [Stable Coins](#stalbe-coins)
 - [Innovative Assets](#innovative-assets)
 - [Hardware Wallet Support](#hardware-wallet-support)
-- [Browser Extention Wallet](#browser-extention-wallet)
+- [Dapp Analytics](#dapp-analytics)
 - [IoTeX All-in-One For Dummies](#iotex-all-in-one-for-dummies)
 - [Privacy-preserving Healthcare Applications](#privacy-preserving-e-health-applications)
 - [Privacy-preserving XRC20 Tokens](#privacy-preserving-xrc20-tokens)
@@ -57,8 +57,14 @@ A hardware wallet is a special type of cryptocurrency wallet which stores the us
 
 &nbsp;
 
-### Browser Extention Wallet (WIP) ###
-IOTX wallet such as ioPay (https://iopay.iotex.io/) comes with two flavours - desktop version (supporting Windows, MacOS and Linux) and mobile version (iOS and Android). Having a wallet as a browser extention will hugely invcentive Dapps to integrate with IoTeX blockchain and be beneficial for the ecosystem. This browser extention should coome with all features similar to ioPay, e.g., account management, send/review transaction, invoke smart contract, safe and easy to use.
+### Dapp Analytics ###
+(Dune Analytics)[https://duneanalytics.com/] sets a very good example of how a dapp analytical tool should look like. As the IoTeX (ecosystem)[http://ecosystem.iotex.io/] grows, the community needs such a analytical tool to track how a dapp is doing, how much us the AUM and how the tokens flow in/out for instances. The trackable analyzable io addresses are:
+- all XRC20 tokens: https://www.iotexscan.io/tokens
+- ioTube: https://tube.iotex.io
+- mimo: https://mimo.finance
+- travalcat: https://github.com/iotexproject/halogrants/blob/master/deliveries/gamefantasymilestone.md
+- minttoken: https://minttoken.io
+- and so on
 
 &nbsp;
 
