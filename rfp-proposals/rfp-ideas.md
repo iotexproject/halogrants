@@ -42,7 +42,7 @@ While we track progress of every Halo projects on Github to achieve the highest 
 ### Stable Coins ###
 Stablecoins are cryptocurrencies designed to minimize the volatility of the price of the stablecoin, relative to some "stable" asset or basket of assets. There are couple of ways to develop a stable coin on IoTeX and we are open to all:
 - crosschain-transferring of stable coins from Ethereum (and other blockchains) to IoTeX blockchain
-- natively issue a stable coin on IoTeX blockchain which can be pegged to a cryptocurrency, fiat money, or to exchange-traded commodities (such as precious metals or industrial metals). This one can be asset-backed or seigniorage-style.
+- natively generate stable coins on IoTeX blockchain which can be pegged to a cryptocurrency or to exchange-traded commodities (such as precious metals or industrial metals). This one can be asset-backed or seigniorage-style.
 
 &nbsp;
 
