@@ -2,6 +2,7 @@
 
 ## High Priority
 - [Dashboard to Track Halo projects](#dashboard-to-track-halo-projects)
+- [Mapping Antenna SDK to web3.js](#mapping-antenna-sdk-to-web3.js)
 - [Stable Coins](#stalbe-coins)
 - [Innovative Assets](#innovative-assets)
 - [Hardware Wallet Support](#hardware-wallet-support)
@@ -38,6 +39,11 @@ While we track progress of every Halo projects on Github to achieve the highest 
 
 
 &nbsp;
+
+### Mapping Antenna SDK To Web3.js ###
+
+Antena SDK is the one developers used to access IoTeX blockchain's API. To ease the onboarding of Dapps, we need such a proxy which translates between Antenna SDK and Web3.js.
+
 
 ### Stable Coins ###
 Stablecoins are cryptocurrencies designed to minimize the volatility of the price of the stablecoin, relative to some "stable" asset or basket of assets. There are couple of ways to develop a stable coin on IoTeX and we are open to all:
