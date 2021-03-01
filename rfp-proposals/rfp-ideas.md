@@ -2,7 +2,7 @@
 
 ## High Priority
 - [Dashboard to Track Halo projects](#dashboard-to-track-halo-projects)
-- [Mapping Antenna SDK to web3.js](#mapping-antenna-sdk-to-web3.js)
+- [Mapping Antenna SDK to web3.js](#mapping-antenna-sdk-to-web3js)
 - [Stable Coins](#stalbe-coins)
 - [Innovative Assets](#innovative-assets)
 - [Hardware Wallet Support](#hardware-wallet-support)
@@ -43,6 +43,8 @@ While we track progress of every Halo projects on Github to achieve the highest 
 ### Mapping Antenna SDK To Web3.js ###
 
 Antena SDK is the one developers used to access IoTeX blockchain's API. To ease the onboarding of Dapps, we need such a proxy which translates between Antenna SDK and Web3.js.
+
+&nbsp;
 
 
 ### Stable Coins ###
