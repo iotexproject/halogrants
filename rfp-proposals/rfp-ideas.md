@@ -12,7 +12,6 @@
 - [Privacy-preserving Swap of Regular XRC20 Tokens](#privacy-preserving-swap-of-regular-xrc20-tokens)
 - [Digital Twin for Devices](#digital-twin-for-devices)
 - [Antenna SDK for Arduino Boards](#antenna-sdk-for-arduino-boards)
-- [Dapp Analytics](#dapp-analytics)
 - [Pebble Related](#pebble-related)
 
 ## Low Priority
@@ -96,11 +95,6 @@ A digital twin is a digital replica of a device which can be implemented as a DA
 
 ### Antenna SDK for Arduino Boards ###
 Arduino is a great platform for people & makers to experiment, learn and build IoT applications. Joining Arduino & IoTeX would take these IoT projects to the next level, allowing people to effectively integrate an IoT-friendly Blockchain into their devices and applications. While IoTeX already provides some C++ examples (antenna-embedded), a comprehensive antenna-arduino library that implements IoTeX Antenna SDKs and is easily imported into Arduino projects is missing. Such a port should provide at least Account creation, Transaction signing, and gRPC communication with a IoTeX Full-Node to broadcast transactions (both token transfers and smart contract calls), query transaction status and accounts balance. This should run on the most popular Arduino boards, including the UNO, Nano & Mega.      
-
-&nbsp;
-
-### Dapp Analytics ###
-With more Dapps built on top of IoTeX, we need a tool/dashboard/service to track metrics such as transactions, assets-under-management, tokens flow in/out for a specific Dapp -- think it as Google Analytics for IoTeX. A good example is [duneanalytics](duneanalytics.com) for Ethereum. One can leverage [the real-time and strucutred IoTeX data set](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-iotex-pubsub?filter=category:big-data&filter=solution-type:dataset&q=iotex%20cryptocurrency%20real-time%20data&id=a5843070-576e-47f3-ad8d-d39243a7a37f&walkthrough_tutorial_id=java_gae_quickstart) that already ingested.
 
 &nbsp;
 
