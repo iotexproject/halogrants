@@ -37,7 +37,7 @@ Proposed user action:
 (right click anywhere on the background to open menu, click on icon to continue "hacking" - command console opens up, "Connect to IoPay" works, as long as user has ioPay wallet open an unlocked)
 (right click anywhere on background to open SDL2 based rendered game in the background. Game never pauses, it is a 2D platformer (ala mario). User can always click JRPC icon to open hacking console.
 
-All tokens colected via JRPC game would need to be transferred manually via in-built 3D JRPC Console
+All tokens collected via JRPC game would need to be transferred manually via in-built 3D JRPC Console
 
 ## Development Roadmap
 
