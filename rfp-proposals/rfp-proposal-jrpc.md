@@ -1,5 +1,3 @@
-To submit a proposal, please create a PR against this template in this repo. Please title your file `rfp-proposal-title.md`, replacing `title` with the name of your project.
-
 # RFP Proposal: `WebOS IoTeX Console`
 
 **RFP Category:** `dev`
