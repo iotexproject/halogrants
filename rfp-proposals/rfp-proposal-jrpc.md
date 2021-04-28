@@ -1,4 +1,4 @@
-# RFP Proposal: `WebOS IoTeX Console`
+# RFP Proposal: `WebOS JRPC Console`
 
 **RFP Category:** `dev`
 
