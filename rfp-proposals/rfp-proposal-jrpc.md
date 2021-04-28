@@ -1,80 +1,96 @@
+# RFP Proposal: `WebOS IoTeX Console`
 
-# Open Grant Proposal: `IoJRP{`
+**RFP Category:** `dev`
 
-**Name of Project:** IoJRP{
+**Name of Project: WebOS Console - iotex-antenna-embedded
 
-**Proposal Category:** Open ended proposal
+**Link to RFP:** https://github.com/iotexproject/halogrants/blob/master/rfp-proposals/rfp-ideas.md#innovative-assets
 
-**Proposer:** `Jeremi Rynkiewicz`
+**Proposer:** `jrynkiew`
 
-**Do you agree to open source all work you do on behalf of this RFP?:** Yes
+**Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT and APACHE2 licenses?:** Yes
 
 # Project Description
 
-To deploy a real fully devleloped IoTeX chain integration in conjunction with JerryIoPay
-
-## Solution
-
-I am developing a solution on JerryIoPay website https://jrpc.pl/
-
-A 3D rendering of a website is what is the next norm. 3D graphics processing has become so cheap that simple HTTP renderings will be demoted to old fashioned and bland.
-
-I am proposing a SDL2 based game integrated into the IOTEX network, which rewards users for certain actions in IoTeX network.
-
-This can be from playing a SDL2 game on the rendering screen, to opening a browser page, copying data, pasting it to web command console (currently under development), which will reward users for completing steps, such as creating account, transferring money and "integrating" into the IoTeX framework via an online session. A Virtual "hacking" session for kids you can call it.
-
-All data would be stored on a given publicly available network cloud infrastrcuture.
-All code would be open source, in addition to potentially viable to be closed sourced projects libraries.
-
-Score sheets would be kept
+This project focuses on developing a new XRC20 token blockchain network on the IoTeX blockchain. JRPC has been seeded with assets already and is tradeable on mimo. The token has been released with low supply on mimo (only several thousand) and the total supply is 1,000,000 JRPC. The concept behind this token is to implement a "mining" token on the Roll-DPoS based IoTeX network. This can be accomplished via a series of proofs of work done not by a computer per se, but instead by a miner, a developer, working on the IoTeX blockchain to solve complicated puzzles via a web console (or windows/linux binaries).
 
 ## Deliverables
 
-Improve the code on https://jrpc.pl/
-
-Proposed user action:
-
-(right click anywhere on the background to open menu, click on icon to continue "hacking" - command console opens up, "Connect to IoPay" works, as long as user has ioPay wallet open an unlocked)
-(right click anywhere on background to open SDL2 based rendered game in the background. Game never pauses, it is a 2D platformer (ala mario). User can always click JRPC icon to open hacking console.
-
-All tokens collected via JRPC game would need to be transferred manually via in-built 3D JRPC Console
+1. A WebOS integrated antenna-js + ioctl type application. The app will provide full command user access to IoTeX mainnet.
+2. A 3D/2.5D web interface hosting the command console - compiled in Emscripten, a cross compliation tool developed for golang/C++. The basic rendering is done by SDL2/OpenGLes.
 
 ## Development Roadmap
 
-Not funded yet. No roadmap created.
+Milestone 1: JRPC token roadmap - long term scope / whitepaper + investor acquisition.
 
-## Total Budget
+As part of this roadmap I will need to consult with IoTeX as to how far they are willing to push their project, to integrate into the JRPC space. I am willing to provide the JRPC token address to delegates to include it in airdrops / airdrips.
 
-Total Budget for the project is 5,500,000 IOTX
+I will need to provide a proof of work mechanism for obtaining the JRPC token via Command Console available locally (via win32 / win64 binaries, Linux x86 / x64 binaries) and via Web Console.
 
-Analysis Phase - Complete
-First Phase: Complete - 1,000,000 IOTX
-Second Phase: Complete partially - inbuilt ioCommand console with live access to test network - 3M IOTX
-Testing and Documentation - 500K IOTX
-Build DevOps Tools - 1,000,000 IOTX
+This is a planning phase, no functionality yet. Documentation only.
 
+People working on project: 1 (until further funding) - 2 weeks full time, 5 weeks part-time
+
+funding required: 5,000 IOTX
+
+
+Milestone 2: WebConsole development and cross platform implementation
+
+Implement JRPC Web Console available on demand on any continet on any device. Currently Windows/Linux/Mac computers running Chrome/Firefox/Opera/Edge are supported. Mobile versions are compatible with Chrome on Android (have not tested any other browsers on Android), but usage is clunky. Win32 binaries and Linux binaries are available, but I am working on a fully integrated web browser console which will integrate the iotex ioctl like functionality into it. This is the priority for me. Safari / iOS excluded from this milestone, as it is out of my control that they do not support WebGL content yet.
+
+Deliverable: two seperate versions of WebOS - console only Desktop + Web and a Mobile version (web only). Basic console  functionality only on both
+
+People working on project: 1 (until further funding) - 10 months part-time (further help can be found if funding for this project is achieved. Please let me know beforehand if you are interested in this scope, and if you would like to make it a priority)
+
+funding required: 10,000,000
+
+
+Milestone 3: WebOS integration into the IoTeX space
+
+Full implementation of the iotex-antenna-js or iotex-antenna-embedded (cross compiled) into a web based command console. This console will allow for the development of smart contracts, creating accounts, deploying contracts, deleting accounts, all the possible features that IoTeX currently supports via command line interaction via ioctl and other simialr tools.
+
+Deliverables: The same as above, including additional functionality of extended/full functionality of the web based ioctl implementation.
+
+People working on project: 1 (until further funding) - 10 months full time
+
+funding required: 5,000,000
+
+
+## Total Budget Requested
+
+15,005,000 IOTX
 
 ## Maintenance and Upgrade Plans
-Fully maintained till the day I die
 
-## Founding Member
+I will be developing this project further with funding or not, it doesn't matter, so upgrade and maintenance is a must - it is part of the long term goal. The Ioctl development commitment from IoTeX is required to make this long term commitment sustainable. SDL and Emscripten are being regularly maintained, so third party libraries should not be a problem.
+
+# Team
+
+## Contact Info
+
+rynkiewicz.jeremi@gmail.com
+
+## Team Members
+
 Jeremi Rynkiewicz
 
-## Links
+## Team Member LinkedIn Profiles
 
 https://www.linkedin.com/in/jrpcpl/
 
-## Team Member Experience
+## Team Website
 
-Please see LinkedIn profile or contact directly jrpc.pl contact form (not yet submitted in prod :) )
+https://jrpc.pl
 
-## Team Github Repos and Projects
+## Relevant Experience
+
+I am a cross platform developer, as my web based applications must work smoothly both on linux and emscripten based cross compiled code on Windows native browsers. Windows native binaries are available if third party libraries support them (for now they do). I am a full stack developer, with experience in docker commands, nodejs, html, js, css + emscripten, c++.
+I have experience in php and e-mail server setup. Server architecture, windows server administration, and linux networking is a must line my line of work.
+
+## Team code repositories
+
 https://github.com/jrynkiew/WebOS
 
-(not affiliated - only using code from these libraries and using their tools)
-https://github.com/ocornut/imgui
-https://github.com/libsdl-org/SDL
-https://emscripten.org/docs/introducing_emscripten/index.html
-https://www.opengl.org/resources/libraries/glut/
+# Additional Information
 
-
+Benefit to the token economy and the ioctl promotion as a viable tool to use the blockchain, as very few people interact with the blockchain currently with full control.
