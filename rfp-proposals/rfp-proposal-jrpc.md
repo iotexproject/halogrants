@@ -2,7 +2,7 @@
 
 **RFP Category:** `dev`
 
-**Name of Project:** WebOS Console - iotex-antenna-embedded
+**Name of Project:** WebOS Console - iotex-antenna-embedded web version
 
 **Link to RFP:** https://github.com/iotexproject/halogrants/blob/master/rfp-proposals/rfp-ideas.md#innovative-assets
 
