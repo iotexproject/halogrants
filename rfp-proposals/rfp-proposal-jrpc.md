@@ -16,7 +16,7 @@ This project focuses on developing a new XRC20 token blockchain network on the I
 
 ## Deliverables
 
-1. A WebOS integrated antenna-js + ioctl type application. The app will provide full command user access to IoTeX mainnet.
+1. A WebOS integrated antenna-js / iotex-antenna-embedded web version + ioctl type application. The app will provide full command user access to IoTeX mainnet.
 2. A 3D/2.5D web interface hosting the command console - compiled in Emscripten, a cross compliation tool developed for golang/C++. The basic rendering is done by SDL2/OpenGLes.
 
 ## Development Roadmap
