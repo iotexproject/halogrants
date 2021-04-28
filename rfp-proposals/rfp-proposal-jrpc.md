@@ -1,8 +1,10 @@
+To submit a proposal, please create a PR against this template in this repo. Please title your file `rfp-proposal-title.md`, replacing `title` with the name of your project.
+
 # RFP Proposal: `WebOS IoTeX Console`
 
 **RFP Category:** `dev`
 
-**Name of Project: WebOS Console - iotex-antenna-embedded
+**Name of Project:** WebOS Console - iotex-antenna-embedded
 
 **Link to RFP:** https://github.com/iotexproject/halogrants/blob/master/rfp-proposals/rfp-ideas.md#innovative-assets
 
@@ -21,7 +23,7 @@ This project focuses on developing a new XRC20 token blockchain network on the I
 
 ## Development Roadmap
 
-Milestone 1: JRPC token roadmap - long term scope / whitepaper + investor acquisition.
+**Milestone 1: JRPC token roadmap - long term scope / whitepaper + investor acquisition.**
 
 As part of this roadmap I will need to consult with IoTeX as to how far they are willing to push their project, to integrate into the JRPC space. I am willing to provide the JRPC token address to delegates to include it in airdrops / airdrips.
 
@@ -31,10 +33,10 @@ This is a planning phase, no functionality yet. Documentation only.
 
 People working on project: 1 (until further funding) - 2 weeks full time, 5 weeks part-time
 
-funding required: 5,000 IOTX
+**funding required: 5,000 IOTX**
 
 
-Milestone 2: WebConsole development and cross platform implementation
+**Milestone 2: WebConsole development and cross platform implementation** 
 
 Implement JRPC Web Console available on demand on any continet on any device. Currently Windows/Linux/Mac computers running Chrome/Firefox/Opera/Edge are supported. Mobile versions are compatible with Chrome on Android (have not tested any other browsers on Android), but usage is clunky. Win32 binaries and Linux binaries are available, but I am working on a fully integrated web browser console which will integrate the iotex ioctl like functionality into it. This is the priority for me. Safari / iOS excluded from this milestone, as it is out of my control that they do not support WebGL content yet.
 
@@ -42,10 +44,10 @@ Deliverable: two seperate versions of WebOS - console only Desktop + Web and a M
 
 People working on project: 1 (until further funding) - 10 months part-time (further help can be found if funding for this project is achieved. Please let me know beforehand if you are interested in this scope, and if you would like to make it a priority)
 
-funding required: 10,000,000
+**funding required: 10,000,000**
 
 
-Milestone 3: WebOS integration into the IoTeX space
+**Milestone 3: WebOS integration into the IoTeX space**
 
 Full implementation of the iotex-antenna-js or iotex-antenna-embedded (cross compiled) into a web based command console. This console will allow for the development of smart contracts, creating accounts, deploying contracts, deleting accounts, all the possible features that IoTeX currently supports via command line interaction via ioctl and other simialr tools.
 
@@ -53,7 +55,7 @@ Deliverables: The same as above, including additional functionality of extended/
 
 People working on project: 1 (until further funding) - 10 months full time
 
-funding required: 5,000,000
+**funding required: 5,000,000**
 
 
 ## Total Budget Requested
