@@ -1,5 +1,5 @@
 ---
-name: "<Bounty title>"
+name: "New Bounty"
 about: Start here to publish a new GitCoin Bounty
 title: A General-purpose NFT Marketplace
 labels: ''
@@ -7,12 +7,9 @@ assignees: ''
 
 ---
 
-## General
-#### Discuss
-Please join our [Discord Dev Chat](https://iotex.io/devdiscord) and reach out to `Simone_IoTeX` to discuss the project 
+**Discuss**: Please join our [Discord Dev Chat](https://iotex.io/devdiscord) and reach out to `Simone_IoTeX` to discuss the project 
 
-#### Follow Us
-[iotex.io](https://iotex.io) | [Telegram](https://t.me/IoTeXGroup) | [Twitter](https://twitter.com/iotex_io) | [Medium](https://medium.com/@iotex) | [Reddit](https://www.reddit.com/r/IoTeX)
+**Follow Us**: [iotex.io](https://iotex.io) | [Telegram](https://t.me/IoTeXGroup) | [Twitter](https://twitter.com/iotex_io) | [Medium](https://medium.com/@iotex) | [Reddit](https://www.reddit.com/r/IoTeX)
 
 ## Bounty Description
 What the applicants are supposed to build?
