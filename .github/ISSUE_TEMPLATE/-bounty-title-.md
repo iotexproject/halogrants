@@ -11,7 +11,7 @@ assignees: ''
 
 **Discuss**: Please join our [Discord Dev Chat](https://discord.gg/gYkJ6EQVgu) to ask any questions or reach out to `Simone_IoTeX` on Discord if you need any help.
 
-**Follow Us**: [iotex.io](https://iotex.io) | [Telegram](https://t.me/IoTeXGroup) | [Twitter](https://twitter.com/iotex_io) | [Medium](https://medium.com/@iotex) | [Reddit](https://www.reddit.com/r/IoTeX)
+**Follow Us**: [iotex.io](https://iotex.io) | [Telegram](https://t.me/IoTeXGroup) | [Twitter](https://twitter.com/iotex_io) | [Discord](https://discord.gg/gYkJ6EQVgu) | [Medium](https://medium.com/@iotex) | [Reddit](https://www.reddit.com/r/IoTeX)
 <!-- End header -->
 
 ## Bounty Description
