@@ -23,7 +23,7 @@ The IoTeX Halo Program, run by the IoTeX Foundation, funds community projects th
 
 At a high level, we welcome two categories of proposals, both tech and non-tech:
 # Community Bounties
-Community bounties are a "wishlist" of new features, bug fixes, or standalone projects proposed by the community or by the IoTeX Foundation. Bounties have a well defined scope of work, verifiable deliveries, and a funding limit. Anyone can start a bounty to fund their favorite idea and help the growth of the IoTeX ecosystem, and anyone can work on existing bounties and claim the reward once work is done.
+Community bounties are a "wishlist" of new features, bug fixes, or standalone projects proposed by the community or by the IoTeX Foundation. Bounties have a well defined scope of work, verifiable deliverables, and a funding limit. Anyone can start a bounty to fund their favorite idea and help the growth of the IoTeX ecosystem, and anyone can work on existing bounties and claim the reward once work is done.
 
 
 ## Work on a bounty
@@ -74,7 +74,7 @@ Create a new file into the `oep-proposals/` folder and name it `open-proposal-<y
 e.g. `oep-proposals/open-proposal-awesomedapp.md`
 
 ### Step 3
-Fill your file with content from the [Technical Template](), or the [Non-Technical Template](), depending on the type of your proposal.
+Fill your file with content from the [Technical Template](https://github.com/iotexproject/halogrants/blob/master/rfp-proposals/rfp-proposal-template1.md), or the [Non-Technical Template](https://github.com/iotexproject/halogrants/blob/master/rfp-proposals/rfp-proposal-template2.md), depending on the type of your proposal.
 
 ### Step 4
 Edit the proposal with your specific content: be very clear about what is the final deliverable of your proposal, and what is the amount of the grant request (in USD). Please split your project in milestones with their own verifiable deliverables if the project is too big.
