@@ -7,6 +7,16 @@
 # IoTeX Halo Grants Program
 Introducing **Halo**, the official IoTeX Grants Program. Join us in building the Internet of Trusted Things!
 
+- [Goals](#goals)
+- [Community Bounties](#community-bounties)
+  - [Work on a bounty](#work-on-a-bounty)
+  - [Fund a bounty](#fund-a-bounty)
+- [Open-ended Proposals](#open-ended-proposals)
+  - [Types of Grants](#types-of-grants)
+  - [How to Apply](#how-to-apply)
+  - [Eligibility](#eligibility)
+  - [Resources & Community](#resources--community)
+
 # Goals
 The IoTeX Halo Program, run by the IoTeX Foundation, funds community projects that benefit the IoTeX ecosystem. Specifically, Halo grants are targeted at **developers** interested in building IoT and privacy-related projects, as well as **ecosystem builders** that want to expand the capabilities/reach of the IoTeX Network. 
 
