@@ -14,6 +14,7 @@ Introducing **Halo**, the official IoTeX Grants Program. Join us in building the
 - [Open-ended Proposals](#open-ended-proposals)
   - [Types of Grants](#types-of-grants)
   - [How to Apply](#how-to-apply)
+  - [Rules](#rules)
   - [Eligibility](#eligibility)
   - [Resources & Community](#resources--community)
 
@@ -46,8 +47,8 @@ If you have a Gitcoin account, you may want to fund your bounty on Gitcoin to ge
 # Open-ended Proposals 
 Do you have a great project you want to build on IoTeX? Pitch us your idea! OEPs empower your innovative and impactful ideas with funding and hands-on technical support from the IoTeX Foundation.
 
-## Types of Grants
-Recommended proposal types include, but are not limited to:
+## Types of Proposals
+Get inspired by [approved open proposals](https://github.com/iotexproject/halogrants/tree/master/oep-proposals), while other recommended proposal types include, but are not limited to:
 
 **Technical** ([Template](https://github.com/iotexproject/halogrants/blob/master/rfp-proposals/rfp-proposal-template1.md))
 - Trusted Devices/Data: new tools/capabilities for "Powered by IoTeX" products (e.g., Ucam, Pebble Tracker)
@@ -61,12 +62,33 @@ Recommended proposal types include, but are not limited to:
 - International Marketing: marketing campaigns, meetups, and initiatives in your local region/language
 - Community Experience: long-term programs to help drive community discussion and engagement
 
-## How to Apply
-1. Anyone (individuals or teams) is welcome to submit their proposals via pull requests to this repo (follow the given [request for proposal templates](https://github.com/iotexproject/halogrants/tree/master/rfp-proposals) or get inspired by [approved open proposals](https://github.com/iotexproject/halogrants/tree/master/oep-proposals)). 
-Once committed, please submit your proposal to the [IoTeX Forum - Technology & Developers](https://community.iotex.io/c/research-development/7) section for open discussion.
-2. The IoTeX Foundation will review your proposal within two weeks. We will provide feedback/suggestions and optionally schedule a call to discuss your idea, after which we will approve/reject the proposal. We will expand the proposal selection committee as time goes by, including community leaders, project advisors, and external technologists.
-3. If a grant is awarded, grant recipients will receive their IOTX grants periodically based on predetermined milestones for the specific grant. Note that the issuance of funding differs for RFPs and OEPs.
-4. Grant recipients will be required to produce [Milestone Reports](https://github.com/iotexproject/halogrants/blob/master/deliveries/project_milestone_n_template.md) in order to continue to receive grant funding. If the Milestone Report shows the initiative is not meeting expectations, the Foundation will work with you to get back on track; however, if problems persist we may halt continued funding. The submission cycle of the Milestone Report will vary according to each project’s duration.
+## How to submit your proposal
+Anyone (individuals or teams) is welcome to submit their proposals via **pull requests** to this repository:
+
+#### Step 1
+<a href="https://github.com/iotexproject/halogrants/fork"><img src="img/btn-fork-repo.png" height="42px"></a>
+
+#### Step 2
+Create a new file into the `oep-proposals/` folder and name it `open-proposal-<your-project-name>.md`.
+
+e.g. `oep-proposals/open-proposal-awesomedapp.md`
+
+### Step 3
+Fill your file with content from the [Technical Template](), or the [Non-Technical Template](), depending on the type of your proposal.
+
+### Step 4
+Edit the proposal with your specific content: be very clear about what is the final deliverable of your proposal, and what is the amount of the grant request (in USD). Please split your project in milestones with their own verifiable deliverables if the project is too big.
+
+### Step 5
+Commit your changes to Github as submit a pull request to this repository.
+
+
+## Rules
+The IoTeX Foundation will review your proposal within two weeks. We will provide feedback/suggestions and optionally schedule a call to discuss your idea, after which we will approve/reject the proposal. We will expand the proposal selection committee as time goes by, including community leaders, project advisors, and external technologists.
+
+If a grant is awarded, grant recipients will receive their IOTX grants periodically based on predetermined milestones for the specific grant. Note that the issuance of funding differs for RFPs and OEPs.
+
+Grant recipients will be required to produce [Milestone Reports](https://github.com/iotexproject/halogrants/blob/master/deliveries/project_milestone_n_template.md) in order to continue to receive grant funding. If the Milestone Report shows the initiative is not meeting expectations, the Foundation will work with you to get back on track; however, if problems persist we may halt continued funding. The submission cycle of the Milestone Report will vary according to each project’s duration.
 
 ## Eligibility
 1. Proposal should be clear about how they will benefit the IoTeX ecosystem. We are primarily interested in projects that can be completed in 3 months or less -- longer projects may be split into multiple grants for easier tracking/management.
