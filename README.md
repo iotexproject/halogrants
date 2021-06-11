@@ -31,8 +31,7 @@ All IoTeX bounties are listed in the [issue section](https://github.com/iotexpro
 
 If you have a Gitcoin account, you may want to fund your bounty on Gitcoin to get more submissions:
 
-<a href="https://gitcoin.co/bounty/new"><img src="img/btn-gitcoin-fund-bounty.png
-" height="42px"></a>
+<a href="https://gitcoin.co/bounty/new"><img src="img/btn-gitcoin-fund-bounty.png" height="42px"></a>
 
 # Open-ended Proposals 
 Do you have a great project you want to build on IoTeX? Pitch us your idea! OEPs empower your innovative and impactful ideas with funding and hands-on technical support from the IoTeX Foundation.
