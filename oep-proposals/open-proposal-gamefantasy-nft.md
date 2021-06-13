@@ -33,9 +33,9 @@ The final product is a blockchain game that can be played on both mobile web, an
 ---
 | Number | Deliverable | Date | role | funding require | status |
 | ------------- | ------------- | ------------- | ----------- | ---------- | ---------- |
-| 1.Writing and output of in-game basic ui and blockchain contracts, development of display functions | Record game play videos | 2021-04-06 | wqwqwq219,liasece | 1,500,000 IOTX | Complete  [video](https://www.bilibili.com/video/bv1Yf4y1Y7jS) |
-| 2.Development of game synthesis, auction, output and other functions | Recorded game development videos | 2021-06-06 | wqwqwq219,liasece | 1,500,000 IOTX | not compelte yet |
-| 3.Add combat features in the game | You can experience the features of the game directly online | 2021-08-06 | wqwqwq219,liasece | 1,000,000 IOTX | not complete yet |
+| 1.Writing and output of in-game basic ui and blockchain contracts, development of display functions | Online Test Play | 2021-04-06 | wqwqwq219,liasece | 1,500,000 IOTX | Complete  [game](http://hpc1.liasece.com:8180) |
+| 2.Development of game synthesis, auction, output and other functions | Game launch | 2021-06-06 | wqwqwq219,liasece | 1,500,000 IOTX | not compelte yet |
+| 3.Add combat features in the game and raise the GFT holder to 2500 and TVL of GFT to 250w IOTX | You can experience the features of the game directly online | 2021-08-06 | wqwqwq219,liasece | 1,000,000 IOTX | not complete yet |
 
 ### Total Budget Requested
 
