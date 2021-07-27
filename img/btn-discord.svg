@@ -95,9 +95,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="g893"
      inkscape:document-units="mm"
-     inkscape:cy="88.186934"
+     inkscape:cy="88.592278"
      inkscape:cx="118.80097"
-     inkscape:zoom="4.934082"
+     inkscape:zoom="1.7444614"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -181,7 +181,7 @@
            clip-path="url(#clipPath939)" />
       </g>
       <g
-         transform="matrix(1.0174357,0,0,1.0174357,-255.33571,396.70279)"
+         transform="matrix(1.1089856,0,0,1.097825,-342.3431,353.34338)"
          id="g947">
         <g
            id="g949"
@@ -203,15 +203,15 @@
       <text
          transform="scale(1,-1)"
          id="text1033"
-         y="-974.16376"
-         x="782.99988"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.54646px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.763077"
+         y="-976.13947"
+         x="781.49988"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.2px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.763077"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.54646px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.763077"
-           y="-974.16376"
-           x="782.99988"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.2px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.763077"
+           y="-976.13947"
+           x="781.49988"
            id="tspan1031"
-           sodipodi:role="line">JOIN OUR DEV CHAT</tspan></text>
+           sodipodi:role="line">JOIN OUR DEV CHAT ON</tspan></text>
     </g>
   </g>
 </svg>
