@@ -1,6 +1,7 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/iotexproject/halogrants/blob/master/img/halo.png" width="480px">
 </p>
+<a href="https://iotex.io/devdiscord" target="_blank"><img src="https://github.com/iotexproject/halogrants/blob/0082107b6d4381ba2237adce01dd48672644cc25/img/btn-discord.png" align="right"></a>
 
 &nbsp;
 
