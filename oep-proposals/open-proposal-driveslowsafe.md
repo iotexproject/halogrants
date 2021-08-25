@@ -90,6 +90,7 @@ Possible upgrades:
 ## Contact Info
 
 email: nikitkaruban@gmail.com;
+
 discord: sea_of_zhou
 
 ## Team Members
@@ -115,9 +116,11 @@ but with some design improvements;
 
 ## Team code repositories
 
-[Drive Slow/Safe](https://github.com/nicky-ru/drive-slow-safe).
+[Drive Slow/Safe](https://github.com/nicky-ru/drive-slow-safe)
 
 # Additional Information
+
+Our last project was mentioned in the [Winners showcase](https://medium.com/iotex/iotex-gitcoin-gr10-hackathon-winners-showcase-256b1a4b23e2) under Honorable Mentions;
 
 We hope that this new use case will bring new users to the IoTeX community, increase
 demand for Pebble devices and make the situation on the roads safer.
