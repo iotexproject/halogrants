@@ -34,7 +34,7 @@ incentivize safe drivers and to use Dapp functionality. SAFM is pre-mined.
 
 The 90% amount of issued tokens will be locked in Drive Slow/Safe contract, 10% of it
 stays by development team for Maintenance;
-The only way to emit this coins is through incentives for safe driving.
+The only way to unlock this coins from smart contract is through rewarding for safe driving.
 
 ### Roles and rewards
 
