@@ -1,0 +1,94 @@
+# **RFP Proposal: Bluehelix**
+
+**RFP Category:**  Cross-chain Bridge（infrastructure）
+
+**Name of Project: Bluehelix**
+
+**Link to RFP:**  https://www.bhexchain.com/
+
+**Proposer:**  Dori.Zhu
+
+**Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT and APACHE2 licenses?:**   &quot;YES&quot;
+
+# **Project Description**
+
+Bluehelix is the next-generation cross-chain DeFi infrastructure for decentralized assets. It is based on MPC distributed key technology, comprehensively using cryptography and blockchain technology, and completely decentralized to realize heterogeneous chain cross-chain services. Bluehelix Bridge is a decentralized cross-chain bridge based on MPC rather than smart contract deployment, encapsulation or issuance of any new assets. It supports the cross-chain circulation of arbitrary assets through cryptographically secure decentralized private key management tailored specifically for high-performance asset cross-chain financial scenarios, and fully guarantees the security of assets on the chain.
+
+**Deliverables**
+
+Please describe in details what your final deliverable for this project will be.
+
+Bluehelix has been the largest MPC-based decentralized cross-chain bridge for supporting arbitrary assets. Bluehelix can already bridge these 7 public chains and its ecosystem assets. Bluehelix will support more popular chains. It is completely decentralized.
+
+For better user&#39;s experience, Bluehelix has launched Bluehelix cross-chain Bridge, Bluehelix wallet(a decentralized wallet) and Hdex( a cross-chain decentralized exchange). These products will keep promoting our ecology.
+
+In the future, Bluehelix Bridge will support more public chains and fully decentralized and securely realize asset cross-chain transactions, and provide better infrastructure services for blockchain /DeFi project ecology construction.
+
+**Development Roadmap**
+
+Please break up your development work into a clear set of milestones. You can use the milestones suggested in the RFP or create your own. This section needs to be very detailed (will vary on the project, but aim for around 2 pages for this section).
+
+First, Bluehelix is based on MPC, a decentralized cryptography technology. It is patented in Europe and United States. Any user has a completely independent decentralized signatory address on the corresponding chain. The Bluehelix cross-chain process does not involve the exchange of any intermediate assets, nor does it issue any new/wrapped assets. We are running by consensus nodes, and core nodes are all supported by authority institutions, including SlowMist and Peck hield.
+
+And the completion of any transaction (deposit/withdrawal) requires the generation of distributed signature and multi-party confirmation, and the processes are fully transparent and can be verified on the Chain.
+
+Second, Bluehelix has been the largest MPC-based decentralized cross-chain bridge for supporting any assets cross chain. Bluehelix Bridge has integrated asset transactions on seven public chains, including Bitcoin, Ethereum, HECO, BSC, DOGE, TRON, Polygon, and more public chains will be connected in the future.
+
+Moreover, for better user&#39;s experience, Bluehelix has launched Bluehelix cross-chain Bridge, Bluehelix wallet(a decentralized wallet) and Hdex. HDEX is a decentralized trading platform that supports safe cross-chain deposit and trading of any asset. Based on the Bluehelix OpenDEX protocol, HDEX supports the fast exchange transaction mode of AMM and Orderbook order books, and is committed to providing users around the world with a decentralized trading experience with the ultimate performance.
+
+In short, Bluehelix will supports more public chains and assets and improving our products.
+
+**Total Budget Requested**
+
+50,000 U for improving our products and doing some market activities to encourage users cross-chain transaction integrated Bluehelix bridge.
+
+**Maintenance and Upgrade Plans**
+
+1,We have a Security-vulnerabilities and Threat-intelligence Bounty Programme with cooperated with SlowMist which is open for community. Reports could get reward from $10-$10000 equivalent funds according to the findings.
+
+Details could be check:
+
+[https://slowmist.io/hdex/](https://slowmist.io/hdex/)
+
+[https://slowmist.io/en/bug-bounty.html](https://slowmist.io/en/bug-bounty.html)
+
+Within one working day, the SlowMist Security Team will confirm the threat intelligence report from the &quot;SlowMist Zone&quot;, follow up, evaluate the problem, and feed the intelligence back to the BlueHelix contact person in the meantime (status: under review). Within three working days, the Bluehelix technical team will deal with the problem, draw conclusions and record points (status: confirmed / ignored). They will communicate with the reporter if necessary, and ask the reporter for assistance.
+
+2, Bluehelix will keep doing marketing and supporting more assets and public chain.
+
+# **Team**
+
+**Contact Info**
+
+[xiaoqing.zhu@bluehelix.com](mailto:xiaoqing.zhu@bluehelix.com)
+
+Tele:@Dori2008
+
+**Team Members**
+
+- James JU
+- Cody Jiang
+
+**Team Member LinkedIn Profiles**
+
+- [https://www.linkedin.com/in/james-ju-65a89366/](https://www.linkedin.com/in/james-ju-65a89366/)
+- [https://www.linkedin.com/in/cody-jiang-38b31490/](https://www.linkedin.com/in/cody-jiang-38b31490/)
+
+**Team Website**
+
+https://github.com/bluehelix-chain
+
+**Relevant Experience**
+
+Mr. Ju is a senior blockchain expert and a serial entrepreneur. As a former Huobi CTO, he led the operation of upgrading and reconstructing Huobi&#39;s cryptocurrency trading system, which oversees 20 billions (CNY) of cashflow on a daily basis. Mr. Ju also recruited Huobi&#39;s core technology developing team, one of which Huobi is still dependent on nowadays. Mr. Ju led the team and finished development and management of some of Huobi&#39;s most innovative technical operations, including but not limited to: USD business, futures market, Caimao securities, and Huobi Pro. After Mr. Ju left Huobi, he joined Xiaoying Technology Inc.（NYSE: XYF) as Vice President of technology and was responsible for platform maintenance, product development, and blockchain system innovation. In 2018, Mr. Ju founded Blue Helix with a purpose to create a brand-new crypto asset custody and clearing trading system.
+Mr. Ju is also an active member of various technical communities. He has contributed great contents in elite forums like QCon/ArchSummit /GTLC/CSDN. He was also a two-time co-chairman during the annual joint ArchSummit conference.
+
+**Team code repositories**
+
+[https://github.com/bluehelix-chain](https://github.com/bluehelix-chain)
+
+[https://bhexchain.gitbook.io/bhex-chain/v/english/audit-report](https://bhexchain.gitbook.io/bhex-chain/v/english/audit-report)
+
+# **Additional Information**
+
+The grant will be used for introducing iotex ecology, encouraging users cross-chain transaction and bringing more assets.
