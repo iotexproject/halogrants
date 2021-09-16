@@ -19,7 +19,7 @@ Deliverables
 
           Add iotex in TCN wallet
           support NFT building and NFT market place by IOTEX
-          support  other NFT program on IOTEX
+       
 
 Development Roadmap
 
