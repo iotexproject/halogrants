@@ -23,16 +23,16 @@ Deliverables
 
 Development Roadmap
 
-          Add iotex in TCN wallet                                                                                   2021.9.30
+          Add iotex in TCN wallet                                                              2021.9.30
           support NFT building and NFT market  place by IOTEX                                  2021.10.31
        
 
 
 Total Budget Requested
 
-            finished 3 milestone need $50000 budget，see detail below        
+            finished 2 milestone need $10000 budget，see detail below        
 
-          Add iotex in TCN wallet                                                                                   2021.9.30               
+          Add iotex in TCN wallet                                                              2021.9.30               
           support NFT building and NFT market  place by IOTEX                                  2021.10.31              $10000
 
 
