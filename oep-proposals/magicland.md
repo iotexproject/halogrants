@@ -32,9 +32,9 @@ The Magicland is deployed on IoTeX as how it is deployed on Arbitrum as a multi-
 
 | Number                                                                        | Deliverable                                                  | Date       | role             | funding require |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------- | --------------- |
-| 1.Deployment of contract and frontend        | Record video of playing game                                 | 2020-09-19 | magicland | $10,000    |
-| 2.TVL reached 5M | Record video of game development                             | when it reached | magicland | $20,000    |
-| 3. TVL reached 10M | Record video of game recharge                                | when it reached | magicland | $20000   |
+| 1.Deployment of contract and frontend        | Frontend and deployed contracts                                 | 2020-09-19 | magicland | $10,000    |
+| 2.TVL reached 5M for >30 days | Frontend and deployed contracts                             | when it reached | magicland | $20,000    |
+| 3. TVL reached 10M for >30 days | Frontend and deployed contracts                                | when it reached | magicland | $20000   |
 ### Total Budget Requested
 
 ---
