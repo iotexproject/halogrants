@@ -39,8 +39,8 @@ The xDollar platform is to be deployed on IoTeX network. Users can stake their c
 | Number | Deliverable | Date | Requested Funding |
 | ------------- | ------------- | ------------- | ----------- | 
 | 1.Deployment on IoTeX | xDollar Launch on IoTeX  | As soon as price feed is figured |  10,000 USD | 
-| 2.TVL milestone 1 | Platform TVL exceeds $5M > 30 DAYS | As as TVL is met | 20,000 USD |
-| 3. TVL milestone 2  | Platform TVL exceeds $10M > 30 DAYS | As as TVL is met | 20,000 USD |
+| 2.TVL milestone 1 | Platform TVL exceeds $5M > 30 DAYS | As soon as TVL is met | 20,000 USD |
+| 3. TVL milestone 2  | Platform TVL exceeds $10M > 30 DAYS | As soon as TVL is met | 20,000 USD |
 
 ### Total Budget Requested
 
