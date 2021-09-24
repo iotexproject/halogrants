@@ -38,15 +38,15 @@ The xDollar platform is to be deployed on IoTeX network. Users can stake their c
 ---
 | Number | Deliverable | Date | Requested Funding |
 | ------------- | ------------- | ------------- | ----------- | 
-| 1.Evaluate IOTX as collateral for xDollar platform and reach consensus for deployment on IoTeX | Platform Parameters & Deployment Consensus | 2021-08-31 |  400,000 IOTX | 
-| 2.Deployment of xDollar on IoTeX network | xDollar Launch on IoTeX | Early October | 500,000 IOTX |
-| 3.Marketing xDollar to attract more TVL to the platform  | Platform TVL exceeds $3M | Q4 2021 | 500,000 IOTX |
+| 1.Deployment on IoTeX | xDollar Launch on IoTeX  | As soon as price feed is figured |  10,000 USD | 
+| 2.TVL milestone 1 | Platform TVL exceeds $5M > 30 DAYS | As as TVL is met | 20,000 USD |
+| 3. TVL milestone 2  | Platform TVL exceeds $10M > 30 DAYS | As as TVL is met | 20,000 USD |
 
 ### Total Budget Requested
 
 ---
 
-Total funding required： 1,400,000 IOTX
+Total funding required： 50,000 USD
 
 The use of funds plan:
 
