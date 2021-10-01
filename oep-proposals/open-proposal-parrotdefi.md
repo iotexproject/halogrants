@@ -14,19 +14,19 @@ Parrot Defi is a decentralized yield farm project based on obtaining our reward 
 
 We've been excited about EVMs, and lately, we've successfully launched a Yield Farming platform on Arbitrum, parrotdefi.com, which reached $1,5M of TVL on its first 24h alive and nowadays is still growing it by implementing new features, the latest one being a burning vault called Incubator, meant to increase the value of its native token PPEGG.
 
-We feel IoTeX is currently in an excellent position to serve as the foundation of expansion for our platform due to its high speed and low transaction costs, in line with the true meaning of Decentralized Finance.  
+IoTeX is currently in an excellent position to serve as the foundation of expansion for our platform due to its high speed and low transaction costs, in line with the true meaning of Decentralized Finance.  
   
 We aim to create a multichain yield farming platform based on a layered architecture that extends the regular farm’s life cycle, plus unique features that add value and use case to the token.
 
-We believe in the concept of creating added value on IoTeX by proposing an ideal environment to add value to our investors' tokens through traditional yield farming products (tokens and pools) and new features and partnerships over time.
+The Team believes in the concept of creating added value on IoTeX by proposing an ideal environment to add value to our investors' tokens through traditional yield farming products (tokens and pools) and new features and partnerships over time.
 
-We're aware of the biggest challenges for most farms on DeFi, time and inflation. However, we've ended up with a simple solution to this, continuous development. We are committed to facing these challenges by dividing the farm's cycle into 2 phases; the first one being initial farming and minting, and the second, the establishment phase.
+Being aware of the biggest challenges for most farms on DeFi, time and inflation. However, we've ended up with a simple solution to this, continuous development. We are committed to facing these challenges by dividing the farm's cycle into 2 phases; the first one being initial farming and minting, and the second, the establishment phase.
 
 We have thought that a path of 2 weeks is ideal for the initial farming phase, followed by a second establishment phase where unique features and products are deployed progressively, adding value to the token.
 
 Farming tokens do not have to be intended for an irrevocable price drop. That is why we have designed features to balance PPEGG inflation, having a low circulation supply and a medium emission rate.
 
-We also want to allow small investors to maximize their profits through layered farming, allowing investors with smaller capital to grow their wealth during an extended period and incentivizing them to hold rewards instead of selling them.
+Also, we'd like to allow small investors to maximize their profits through layered farming, allowing investors with smaller capital to grow their wealth during an extended period and incentivizing them to hold rewards instead of selling them.
 
 We think that hold a token and accumulating rewards is the nature of farming, so we try to encourage and give different reasons to our investors to keep PPEGG in their portfolio either for future layered farming, for the payment of other currencies (Earn USDC), or as an exit currency for other projects (IFO) for example.
 
