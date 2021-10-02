@@ -40,7 +40,7 @@ A weekly report with analytics from users, community feedback, token data, and T
 |number  | deliverable | date/deadline| role | funding require |
 | ------ |------------ | --- | -----|---------------- |
 |1.Deployment on IoTeX and frontend | Contracts and frontend|Oct-06-2021*|Parrotdefi|$10,000|
-|2.TVL milestone  | TVL $1M > 15 days | when is reached|Parrotdefi|$5,000|
+|2.TVL milestone  | TVL $3M > 15 days | when is reached|Parrotdefi|$5,000|
 |3. Incubator | Frontend & contracts| one week after launch|Parrotdefi| $5,000|
 |4.Vaults/ Multiple Rewards | Frontend & contracts| two weeks after launch|Parrotdefi| $10,000|
 |5. NFTs |Frontend & contracts|three weeks after launch|Parrotdefi| $10,000|
