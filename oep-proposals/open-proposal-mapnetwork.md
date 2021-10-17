@@ -2,10 +2,10 @@
 MAP is a decentralized IoTeX-based metaverse account protocol that provides infrastructure services such as domain name resolution and identity accounts for the metaverse ecosystem. It borrows from ENS, with extensions and improvements.
  
 ## Application：
-●  Domain name service for Dapp
-●  Decentralized asset accounts and social accounts
-●  Personal Information Homepage of Web 3.0
-●  Addressing and Resolution for IoT Device
+- Domain name service for Dapp
+- Decentralized asset accounts and social accounts
+- Personal Information Homepage of Web 3.0
+- Addressing and Resolution for IoT Device
  
  
 # Deliverables
