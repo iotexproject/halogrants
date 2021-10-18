@@ -1,5 +1,5 @@
 # Project Description
-MAP is a decentralized IoTeX-based metaverse account protocol that provides infrastructure services such as domain name resolution and identity accounts for the metaverse ecosystem. It borrows from ENS, with extensions and improvements.
+MAP.Network(Metaverse Account Protocol) is a decentralized IoTeX-based metaverse account protocol that provides infrastructure services such as domain name resolution and identity accounts for the metaverse ecosystem. It borrows from ENS, with extensions and improvements.
  
 ## Application：
 - Domain name service for Dapp
