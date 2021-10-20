@@ -12,39 +12,51 @@
 
 ## Project Description
 
-DOGE Gogogo是一个使用IOTEX native coin(未来可能支持更多的合约代币)结算的多人在线竞猜类游戏。游戏的核心玩法参考了赛马，我们将马的形象替换成了更加可爱的Q版宠物狗。玩家可以选择自己心仪的宠物狗进行比赛，对比赛的结果进行多种形式的下注竞猜。除了核心玩法以外，DOGE Gogogo还尝试结合一些养成玩法来增加玩家的活跃度。 
+DOGE Gogogo is a racing game using IOTEX native coin.
+
+1). A fun Doges racing game with 6 ways of betting and winning combinations.
+
+2). An attractive playtoearn feature - starting with walking your doges, and more fun tasks to earn money & honors.
+
+3). Bonus lucky draw with more chances to earn free money -- a beautiful wheel of fortune game play.
+
+4). Built-in security setup and flexible scalable architects.
 
 ## Deliverables
-在iotex的链上部署DOGE Gogogo用于结算的智能合约，提交可以完整体验的Dapp客户端。
+The Doge GoGoGo game is deployed in Iotex domain and players could use IOTX native token to play, to win and take the IOTX tokens. 
 
 ## Development Roadmap
 
 | Number                                                                        | Deliverable                                                  | Date       | role             | funding require |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------- | --------------- |
-| 1. | 1)Dapp Deployment 2)Wallet Connection Done 3)PR promotion | 2021-10-15 | DOGE Gogogo | 5000U |
-| 2. | 1)Smart Contract for data ready 2)2000 Registed users | 2021-11-15 | DOGE Gogogo | 5000U |
+| 1. | 1)Dapp Deployment 2)Wallet Connection Done 3)PR promotion | 2021-10-20 | DOGE Gogogo | 5000U |
+| 2. | 1)Smart Contract for data ready 2)2000 Registed users | 2021-11-10 | DOGE Gogogo | 5000U |
 
 ## Total Budget Requested
 
-所需资金总额：10,000 USDT
+Total： IOTX (10,000 USDT) 
 
-资金使用计划：
+Budget Plan：
 
 1.R & D adjustment and installation 
 
-2.Wallets connections
+2.Wallet connections
 
-3.Server side deployment
+3.Servers deployment
 
-4.Marketing (5000 U) 
+4.All above take IOTX (5000U). 
+
+5.PR and Marketing promotion (5000 U) 
 
 ## Maintenance and Upgrade Plans
 
-持续对游戏的内容和玩法进行扩充，未来希望扩展到数值养成、NFT收集等。
+In the future the NFTs are going to add into the game.
 
 ## Team
 
 ### Contact Info
+
+Telegram：@Jay_Space
 
 E-mail：jayzh@hz-riverside.com
 
@@ -64,7 +76,7 @@ https://www.linkedin.com/in/jay-zhang-8475982/
 
 ### Team Website 
 
-www. Joyboat6.com.cn 
+www. Huskygame.co 
 
 ### Relevant Experience 
 
