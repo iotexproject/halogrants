@@ -56,7 +56,7 @@ FilDA successfully launches on IoTeX and TVL reaches 5 million USDT.
 
 IoTeX provides 50,000 USDT support for future operation.
 
-
+Payment address：0xC9b264826999d1dA9439544F48cfb7493B6779D4
 
 Team
 
