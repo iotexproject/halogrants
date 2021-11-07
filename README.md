@@ -5,12 +5,8 @@
   <img src="https://github.com/iotexproject/halogrants/blob/880eea4af074b082a75608c7376bd7a8eaa1ac21/img/btn-discord.svg" height="36px">
 </a>
 
-# Introduction
-This repository is intended for people interested in working or funding "bounties", i.e. small projects/tasks whose requirements are already defined by the bounty funder. The funder can be the IoTeX Foundation as well as any IoTeX community member, and they are listed in the [issues section](https://github.com/iotexproject/halogrants/issues) of this repository. 
-
-Read below to learn how to work on a bounty or submit your own.
-
-<b>🌟Please notice:</b> If you have your own custom project and you want to request a grant for it, plrease submit your proposal in the [HALO Grants section of our forum](https://community.iotex.io/c/halo-grants/61). Make sure you read the pinned posts first!
+<b>🌟 Please notice:</b> If you have your own custom project and you want to request a grant for it, plrease submit your proposal in the [HALO Grants section of our forum](https://community.iotex.io/c/halo-grants/61). Make sure you read the pinned posts first!<br>
+This repository is intended for developers who want to work on existing <i>"bounties"</i>, or community members who want to fund their own IoTeX projects and are looking for developers.
 
 # Halo Bounties
 Halo bounties are a "wishlist" of new features, bug fixes, or standalone projects proposed by the community or by the IoTeX Foundation. Bounties have a well defined scope of work, verifiable deliverables, and a funding limit. Anyone can start a bounty to fund their favorite idea and help the growth of the IoTeX ecosystem, and anyone can work on existing bounties and claim the reward once work is done.
