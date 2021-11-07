@@ -30,11 +30,15 @@ The Magicland is deployed on IoTeX as how it is deployed on Arbitrum as a multi-
 
 ---
 
-| Number                                                                        | Deliverable                                                  | Date       | role             | funding require |
+| Number                                                                        | Deliverable                                                  | Date       | Status             | funding require |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------- | --------------- |
-| 1.Deployment of contract and frontend        | Frontend and deployed contracts                                 | 2020-09-19 | magicland | $10,000    |
-| 2.TVL reached 5M for >30 days | Frontend and deployed contracts                             | when it reached | magicland | $20,000    |
-| 3. TVL reached 10M for >30 days | Frontend and deployed contracts                                | when it reached | magicland | $20000   |
+| 1.Deployment of contract and frontend        | Frontend and deployed contracts                                 | 2021-09-19 | Completed | $10,000    |
+| 2.TVL reached 4M for >15 days | Frontend and deployed contracts                             | 2021-10-06 | Completed | $10,000    |
+| 3. Village deployment (Multi reward & liqudidity aggregator program) | Frontend and deployed contracts                                | 2021-10-2 | Completed | $5,000   |
+| 4. Autocompounding vault deployment | Frontend and deployed contracts                                | when it deployed | Developing | $5,000   |
+| 5. Stableswap LP integration | Frontend and deployed contracts                                | when it deployed | Developing | $12,000   |
+| 6. TVL reached 10M for >!5 days | Frontend and deployed contracts                                | when it reached | Progress | $8,000   |
+
 ### Total Budget Requested
 
 ---
